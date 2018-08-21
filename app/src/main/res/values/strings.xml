@@ -1,0 +1,2379 @@
+<resources>
+    <string name="app_name">Pengenalan Obat</string>
+    <string name="title_activity_dasar_obat">DasarObatActivity</string>
+    <string name="title_activity_simpan_obat">SimpanObatActivity</string>
+    <string name="title_activity_dosis_obat">DosisObatActivity</string>
+    <string name="title_activity_daftar_obat">DaftarObatActivity</string>
+
+    <string name="acyclovir1">
+        Acyclovir oral adalah obat yang dapat digunakan untuk mengobati infeksi akibat virus, seperti Varicella zoster dan
+        Herpes simplex. Obat ini umumnya dikonsumsi guna mengatasi luka melepuh pada mulut (cold sore), penyakit herpes genital,
+        cacar air, serta cacar api (herpes zoster).
+        \n
+        \nAcyclovir oral tidak bisa mematikan virus sepenuhnya dari tubuh. Obat ini hanya berfungsi untuk mengurangi risiko
+        perkembangan dan penyebaran virus ke bagian  tubuh lain, serta meminimalisir kemungkinan virus kembali menginfeksi
+        di masa mendatang.
+        \n
+        \nAcyclovir oral juga berfungsi untuk mencegah infeksi virus pada orang-orang dengan sistem kekebalan tubuh yang rendah.
+        Dari fungsinya tersebut, obat ini dapat mengurangi tingkat keparahan dan lamanya infeksi, mempercepat penyembuhan luka,
+        mencegah pembentukan luka baru, serta mengurangi nyeri atau rasa gatal akibat infeksi.
+    </string>
+
+    <string name="acyclovir2">
+        Bacalah petunjuk pada kemasan obat dan ikuti anjuran dokter dalam mengonsumsi acyclovir.
+        \n
+        \nPastikan untuk menghabiskan dosis yang sudah diresepkan meski kondisi dirasa membaik agar infeksi tidak kambuh kembali.
+        Jika infeksi tidak membaik setelah menyelesaikan dosis yang diresepkan, temuilah dokter kembali.
+        \n
+        \nJangan berbagi obat ini dengan orang lain meski memiliki gejala yang sama.
+        \n
+        \nDisarankan untuk tidak menunda-nunda waktu dalam mengonsumsi obat ini, karena hasil pengobatan akan lebih
+        efektif jika dimulai sejak awal gejala timbul.
+        \n
+        \nHindari sinar matahari terik dan senantiasa memakai tabir surya ketika akan beraktivitas di luar rumah, karena
+        acyclovir dapat membuat kulit menjadi lebih sensitif terhadap sinar matahari. Selain itu, obat ini juga dapat
+        menyebabkan kantuk. Karena itu, jangan berkendara, mengoperasikan mesin, atau melakukan aktivitas yang membutuhkan
+        kewaspadaan selama menggunakan acyclovir.
+        \n
+        \nPastikan ada jarak waktu yang cukup dan teratur antara satu dosis dengan dosis berikutnya. Usahakan untuk mengonsumsi
+        acyclovir pada jam yang sama setiap harinya untuk memaksimalkan efek obat.
+        \n
+        \nBagi pasien yang lupa mengonsumsi acyclovir, disarankan untuk segera melakukannya jika jeda dengan jadwal konsumsi
+        berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+    </string>
+
+    <string name="acyclovir3">
+        Acyclovir harus dengan resep dokter. Dokter yang akan menentukan dosis dan lama konsumsi obat ini berdasarkan jenis infeksi,
+        tingkat keparahannya dan respon tubuh. Umumnya dosis Acyclovir per hari berkisar antara 600-1000 mg per hari.
+        \n
+        \nUntuk anak-anak, dosis didasarkan pada berat badan anak tersebut.
+    </string>
+
+    <string name="acyclovir4">
+        Beberapa efek samping yang bisa saja terjadi setelah mengonsumsi acyclovir adalah:
+        \n
+        \n\t1. \tDiare.
+        \n\t2. \tSakit perut, mual, atau kembung.
+        \n\t3. \tSakit kepala atau pusing.
+        \n\t4. \tDemam
+        \n\t5. \tRuam gatal.
+        \n\t6. \tLelah.
+        \n\t7. \tMengantuk.
+        \n\t8. \tPerubahan jumlah urine.
+        \n\t9. \tNyeri punggung atau pinggang.
+        \n\t10. \tPerubahan suasana hati.
+    </string>
+
+    <string name="acyclovir5">
+        Bicarakan pada dokter jika memiliki alergi pada obat atau bahan tertentu.
+        \n
+        \nKonsultasikan terlebih dahulu kepada dokter sebelum menggunakan acyclovir jika memiliki masalah pada ginjal
+        atau kondisi yang dapat melemahkan sistem kekebalan tubuh (misalnya menderita HIV/AIDS atau baru menjalani
+        transplantasi ginjal).
+        \n
+        \nInformasikan kepada dokter sebelum menggunakan acyclovir jika akan menjalani vaksinasi atau suatu prosedur
+        medis, termasuk operasi.
+        \n
+        \nBeri tahu dokter jika sedang menggunakan obat-obat lain, termasuk obat bebas, suplemen, atau
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="allopurinol1">
+        Allopurinol adalah obat untuk mengobati asam urat dan beberapa jenis batu ginjal.
+        \n
+        \nObat ini juga digunakan untuk mencegah peningkatan kadar asam urat pada pasien yang menerima kemoterapi kanker.
+        Pasien kemoterapi kanker dapat mengalami peningkatan kadar asam urat akibat pelepasan asam urat dari sel kanker yang mati.
+        \n
+        \nAllopurinol bekerja dengan mengurangi jumlah asam urat yang dibuat oleh tubuh.
+        \n
+        \nPeningkatan kadar asam urat dapat menyebabkan masalah asam urat dan ginjal.
+    </string>
+
+    <string name="allopurinol2">
+        Untuk pengobatan nyeri sendi akibat asam urat (gout), mungkin memakan waktu hingga beberapa minggu untuk
+        merasakan efek dari obat ini.
+        \n
+        \nPengguna mungkin akan mengalami encok lebih sering untuk beberapa bulan setelah memulai pengobatan ini
+        sementara tubuh menghilangkan kelebihan asam urat.
+        \n
+        \nAllopurinol BUKAN pereda nyeri.
+        \n
+        \nUntuk mengurangi rasa sakit dari asam urat, terus minum obat yang diresepkan untuk serangan encok
+        (misalnya, colchicine, ibuprofen, indometasin) seperti yang diarahkan oleh dokter.</string>
+
+    <string name="allopurinol3">
+        Dosis Dewasa Biasa untuk asam urat (Gout)
+        \n
+        \nAwal: 100 mg oral sekali sehari.
+        \n
+        \nPemeliharaan: 200-300 mg (gout ringan) secara oral satu kali sehari,
+        atau 400-600 mg/hari (gout sedang-berat) dalam dosis terbagi. </string>
+
+    <string name="allopurinol4">
+        Cari bantuan medis segera jika pengguna mengalami tanda-tanda reaksi alergi berikut ini:
+        \n
+        \n\t1.\t Gatal-gatal
+        \n\t2.\t Kesulitan bernapas
+        \n\t3.\t Pembengkakan wajah, bibir atau lidah.
+        \n\t4.\t Atau jika pengguna merasa ingin pingsan.
+        \n
+        \nHentikan penggunaan Allopurinol dan hubungi dokter jika pengguna memiliki salah satu dari
+        efek samping:
+        \n
+        \n\t1.\t Demam
+        \n\t2.\t Sakit tenggorokan
+        \n\t3.\t Sakit kepala parah
+        \n\t4.\t Kulit mengelupas
+        \n\t5.\t Ruam kulit merah,
+        \n\t6.\t Nyeri sendi
+        \n\t7.\t Kesemutan
+        \n\t8.\t Mati rasa
+        \n\t9.\t Kelemahan otot yang parah
+        \n\t10.\t Mudah memar dan perdarahan yang tidak biasa.</string>
+
+    <string name="allopurinol5">
+        Bagi wanita yang sedang merencanakan kehamilan, tengah hamil dan sedang menyusui,
+        sesuaikan dosis sesuai dengan anjuran dokter.
+        \n
+        \nTanyakan dosis obat untuk anak-anak pada dokter.
+        \n
+        \nHarap pengguna berhati-hati dalam mengkonsumsi jika menderita gangguan pada ginjal dan hati.
+        \n
+        \nJika terjadi reaksi atau overdosis, segera temui dokter. </string>
+
+    <string name="ambroxol1">
+        Ambroxol HCl (hidroklorida), atau lebih dikenal dengan Ambroxol adalah obat dari golongan
+        mukolitik yang berfungsi untuk mengecerkan dahak yang banyak dan kental hingga menyumbat saluran pernapasan. Dengan
+        menggunakan obat batuk Ambroxol, maka dahak akan lebih encer sehingga memudahkan untuk mengeluarkannya dari
+        tenggorokan saat batuk. Hal ini membuat pengguna lebih mudah untuk bernapas karena saluran pernapasan sudah tidak
+        ada lagi penyumbatan.
+    </string>
+
+    <string name="ambroxol2">
+        Obat ini merupakan salah satu jenis obat keras yang harus menggunakan resep dokter. Oleh karena
+        itu, selalu ikuti aturan yang diberikan oleh dokter atau apoteker sebelum memulai mengonsumsi obat batuk Ambroxol.
+        Pengguna dapat mengonsumsi obat ini bersamaan saat makan atau setelah makan. Minum banyak cairan saat menggunakan obat
+        ini jika dokter tidak mengatakan sebaliknya. Selalu pastikan jarak waktu pengonsumsian antara satu dosis dengan dosis
+        berikutnya sama.
+        \n
+        \nJika pengguna mengonsumsi obat batuk ambroxol sirup, pastikan selalu mengocok wadahnya dengan baik selama 15 detik
+        sebelum menuangkan setiap dosis. Ukur dosis dengan hati-hati menggunakan alat pengukur khusus/sendok yang biasanya
+        tersedia di dalam kemasan. Jangan gunakan sendok rumah karena tidak mendapatkan dosis yang tepat.
+        \n
+        \nSementara jika pengguna menggonsumsi obat batuk ambroxol tablet, jangan menggerus, mengunyah, atau memotong obat
+        menjadi beberapa bagian kecuali dokter menganjurkannya.
+        \n
+        \nDosis dan lamanya pengobatan akan bergantung berdasarkan kondisi medis dan respon terhadap pengobatan. Jangan menggandakan
+        dosis obat ini jika pengguna terlambat atau lupa untuk menggonsumsinya karena dapat memicu gangguan di dalam tubuh. Jika
+        pengguna lupa mengonsumsi obat ini, segera meminumnya jika jarak dengan pengonsumsian berikutnya tidak terlalu dekat.
+        Namun apabila jarak pengonsumsian berikutnya sudah dekat, abaikan dan jangan menggandakan dosis obat ini.
+    </string>
+
+    <string name="ambroxol3">
+        Dosis Ambroxol untuk dewasa berkisar dari 30 mg (1 Ambroxol tablet) sampai 120 mg (4 Ambroxol tablet)
+        per hari yang terbagi dalam 2-3 dosis.
+        \n
+        \nPada dasarnya dosis ambroxol tablet untuk dewasa akan disesuaikan pada kondisi pasien, tingkat keparahan penyakit,
+        serta respon tubuhnya terhadap obat ini. Selalu konsultasikan ke dokter untuk menentukan dosis Ambroxol tablet yang sesuai
+        dengan kebutuhan pengguna
+        \n
+        \nPemberian dosis Ambroxol sirup yang lazim digunakan untuk anak adalah :
+        \n Anak-anak usia kurang dari 2 tahun: 1/2 sendok teh (2.5 mL) ambroxol sirup yang dikonsumsi 2 kali sehari.
+        \n Anak-anak usia 2-5 tahun: 1/2 sendok teh (2.5 mL) ambroxol sirup yang dikonsumsi 3 kali sehari.
+        \n Anak-anak lebih dari 5 tahun: 1 sendok teh (5 mL) ambroxol sirup yang dikonsumsi 2-3 kali sehari.
+        \n
+        \nSama halnya orang dewasa, dosis ambroxol sirup untuk anak akan disesuaikan pada usia, kondisi kesehatan,tingkat
+        keparahan penyakit, serta respon tubuhnya terhadap obat ini. Selalu konsultasikan ke dokter untuk menentukan dosis
+        Ambroxol sirup yang sesuai dengan kebutuhan anak.
+    </string>
+
+    <string name="ambroxol4">
+        Efek samping paling umum dari penggunaan obat batuk ambroxol adalah:
+        \n
+        \n\t 1. Gangguan pencernaan ringan
+        \n\t 2.	Mual dan muntah
+        \n\t 3.	Sakit ulu hati
+        \n\t 4.	Dyspepsia
+        \n
+        \nDalam beberapa kasus, reaksi alergi seperti ruam kulit, gatal-gatal, bengkak dan kemerahan juga mungkin terjad.
+        Penting untuk dipahami bahwa tidak semua orang mengalami efek samping ini. Mungkin ada beberapa efek samping yang tidak
+        disebutkan di atas. Bila pengguna memiliki kekhawatiran mengenai efek samping tertentu, segera konsultasikanlah pada
+        dokter atau apoteker.
+    </string>
+
+    <string name="ambroxol5">
+        Obat batuk Ambroxol tidak disarankan untuk dikonsumsi dalam jangka panjang, maka konsumsilah obat ini
+        sesuai dengan jangka waktu yang telah ditentukan dokter. Beri tahu dokter jika kondisi pengguna tidak berubah, semakin memburuk,
+        atau jika pengguna mengalami gejala baru. Jika pengguna merasa pengguna mungkin memiliki masalah medis serius, dapatkan
+        bantuan medis segera.
+    </string>
+
+    <string name="amoksisilin1">
+        Amoksisilin atau amoxicillin adalah obat jenis antibiotik penicillin yang digunakan untuk mengobati berbagai
+        macam infeksi bakteri. Obat ini bekerja dengan menghentikan pertumbuhan bakteri. Antibiotik ini hanya mengobati infeksi
+        bakteri. Obat ini tidak akan bekerja untuk infeksi virus (seperti pilek, flu). Penggunaan antibiotik apapun yang tidak perlu
+        atau penyalahgunaan antibiotik dapat menyebabkan efektivitasnya menurun.
+        \n
+        \nAmoxicillin juga digunakan dengan obat lain untuk mengobati ulkus lambung/usus yang disebabkan oleh bakteri H. pylori
+        dan untuk mencegah kambuhnya maag.
+        \n
+        \nObat ini juga dapat digunakan oleh orang-orang dengan masalah jantung tertentu (seperti penyakit katup jantung)
+        sebelum prosedur medis/gigi (seperti operasi gigi/gusi) untuk mencegah infeksi jantung.
+    </string>
+
+    <string name="amoksisilin2">
+        Konsumsi obat ini dengan atau tanpa makanan seperti yang dianjurkan oleh dokter , biasanya
+        setiap 8 atau 12 jam. Dosis didasarkan pada kondisi medis dan respon terhadap pengobatan. Minum banyak cairan
+        saat menggunakan obat ini kecuali dokter menyarankan sebaliknya.
+        \n
+        \nAntibiotik bekerja dengan baik ketika jumlah obat dalam tubuh  berada pada tingkat yang stabil. Oleh karena itu,
+        gunakan obat ini secara teratur. JANGAN HENTIKAN PENGGUNAAN OBAT INI JIKA BELUM HABIS!
+        \n
+        \nMenghentikan pengobatan terlalu dini memungkinkan bakteri untuk terus tumbuh dan dapat mengakibatkan kembalinya infeksi.
+    </string>
+
+    <string name="amoksisilin3">
+        Dokter yang akan menentukan dosis dan lama konsumsi amoksisilin berdasarkan infeksi yang terjadi,
+        tingkat keparahannya dan respon tubuh. Umumnya dosis amoksisilin per hari berkisar antara 500-1500 mg untuk 7-14 hari.
+        \n
+        \nUntuk anak-anak, dosis didasarkan pada berat badan anak tersebut.
+    </string>
+
+    <string name="amoksisilin4">
+        Efek samping yang umum terjadi pada penggunaan Amoksisilin adalah sakit perut, mual, muntah,
+        sakit kepala, lidah hitam dan bengkak.
+    </string>
+
+    <string name="amoksisilin5">
+        Bagi wanita yang sedang merencanakan kehamilan, tengah hamil dan sedang menyusui, sesuaikan
+        dosis sesuai dengan anjuran dokter.
+        \n
+        \nTanyakan dosis obat untuk anak-anak pada dokter.
+        \n
+        \nJangan konsumsi Amoksisilin jika pengguna memiliki alergi terhadap penicillin.
+        \n
+        \nHarap pengguna berhati-hati dalam mengkonsumsi jika menderita gangguan pada ginjal dan hati.
+        \n
+        \nAmoksisilin sebaiknya tidak dikonsumsi oleh penderita demam kelenjar karena dapat menyebabkan ruam.
+    </string>
+
+    <string name="ampicillin1">
+        Ampicillin adalah obat yang digunakan untuk mengobati berbagai macam infeksi bakteri.
+        Ampicillin termasuk dalam kelas obat penisilin, jenis antibiotik. Obat ini bekerja dengan menghentikan pertumbuhan bakteri
+        \n
+        \nAntibiotik ini hanya mengobati infeksi bakteri. Ampicillin tidak akan bekerja untuk infeksi virus (misalnya, pilek, flu).
+        Penggunaan antibiotik apapun yang tidak perlu atau berlebihan dapat menyebabkan khasiat obat tidak efektif.
+    </string>
+
+    <string name="ampicillin2">
+        Konsumsi obat ini 4 kali sehari (setiap 6 jam), atau seperti yang dianjurkan oleh dokter. Konsumsi ampicillin pada
+        perut kosong (1 jam sebelum atau 2 jam setelah makan) dengan segelas penuh air. Minum banyak cairan saat menggunakan
+        obat ini kecuali dokter memberi tahu sebaliknya. Dosis didasarkan pada kondisi medis dan respon terhadap
+        pengobatan.
+        \n
+        \nAntibiotik bekerja dengan baik ketika jumlah obat dalam tubuh berada pada tingkat stabil. Oleh karena itu
+        gunakan obat ini secara teratur.
+        \n
+        \nLanjutkan penggunaan obat ini sampai keseluruhan dosis yang ditentukan habis, bahkan jika gejala hilang atau pengguna
+        sudah merasa lebih baik setelah beberapa hari. Menghentikan pengobatan terlalu dini memungkinkan bakteri untuk terus
+        tumbuh dan dapat mengakibatkan kambuhnya infeksi.
+    </string>
+
+    <string name="ampicillin3">
+        Dosis dan jangka waktu penggunaan Ampicillin akan ditentukan oleh dokter sesuai dengan kondisi yang ingin ditangani,
+        tingkat keparahannya dan kondisi kesehatan pasien. Dosis akan direvisi oleh dokter dan disesuaikan menurut perkembangan
+        kondisi.
+        \n
+        \nDosis umum pemakaian Ampicillin adalah 1-3 gram per hari. Sedangkan untuk kondisi yang lebih parah, dosis yang
+        diberikan adalah 4-8 gram perhari.
+        \n
+        \nDosis Ampicillin umumnya dibagi menjadi 3 hingga 4 kali minum satu hari. Jangan menambah atau mengurangi dosis yang
+        dianjurkan oleh dokter.
+        \n
+        \nDosis untuk anak-anak akan disesuaikan dengan berat badan anak tersebut.
+    </string>
+
+    <string name="ampicillin4">
+        Di samping manfaat yang diberikan, ampicillin juga berisiko menyebabkan efek samping. Di antaranya adalah diare,
+        ruam dan kemerahan pada kulit, serta gatal pada mulut dan vagina.
+    </string>
+
+    <string name="ampicillin5">
+        Waspadai penggunaan ampicillin apabila Anda menderita gangguan ginjal dan demam kelenjar.
+        \n
+        \nBeri tahu dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan herba.
+        \n
+        \nBeri tahu dokter apabila Anda memiliki alergi terhadap obat-obatan tertentu, terutama antibiotik
+        penisilin lainnya dan sefalosporin.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah menggunakan ampicillin, segera temui dokter.
+    </string>
+
+    <string name="mefenamat1">
+        Asam mefenamat adalah obat untuk mengobati rasa sakit ringan hingga sedang. Sering digunakan sebagai obat sakit gigi,
+        sakit kepala, dan meringankan rasa nyeri pada masa menstruasi. Asam mefenamat atau mefenamic acid dikenal sebagai
+        nonsteroidal anti-inflammatory drug (NSAID). Obat ini juga dapat digunakan untuk mengobati serangan asam urat.
+        \n
+        \nAsam mefenamat berfungsi menghambat enzim yang memproduksi prostaglandin. Prostaglandin adalah senyawa yang dilepas
+        tubuh dan menyebabkan rasa sakit serta reaksi peradangan.
+    </string>
+
+    <string name="mefenamat2">
+        Asam mefenamat biasanya diminum 4 kali sehari dengan segelas air mineral (8 ons atau 240 mililiter) atau sesuai
+        arahan dokter. Jangan berbaring setidaknya selama 10 menit setelah mengonsumsi obat ini. Jika terjadi gangguan
+        pada perut, minum obat ini dengan makanan atau susu. Jangan mengonsumsi asam mefenamat bersamaan dengan antacid
+        kecuali dengan arahan dokter. Antacid tertentu kemungkinan dapat mengubah jumlah asam mefenamat yang diserap oleh tubuh.
+        \n
+        \nDosis diberikan berdasarkan kondisi medis dan respon terhadap pengobatan. Untuk mengurangi risiko perdarahan
+        pada perut dan efek samping lainnya, minum obat ini pada dosis terendah untuk waktu yang singkat.
+        \n
+        \nJangan naikkan dosis, minum secara teratur, atau konsumsi lebih lama dari yang disarankan. Obat ini sebaiknya
+        tidak diminum lebih dari 7 hari pada satu waktu.
+        \n
+        \nJika pengguna menggunakan obat ini untuk rasa sakit pada menstruasi, ambil dosis pertama segera setelah datangnya
+        menstruasi atau ketika rasa sakit tiba. Biasanya, pengguna hanya perlu untuk mengonsumsi selama 2 atau 3 hari pertama
+        saat datang bulan.
+        \n
+        \nBeritahu dokter jika rasa sakit tidak berkurang atau semakin parah atau jika memiliki gejala baru lainnya.
+    </string>
+
+    <string name="mefenamat3">
+        Asam mefenamat umumnya dikonsumsi sebanyak tiga kali sehari dengan dosis maksimal 500 mg. Dosis obat ini bisa berubah,
+        tergantung kepada kondisi pasien, tingkat keparahan rasa sakit, serta respons tubuh terhadap obat.
+        \n
+        \nUntuk anak-anak di atas enam bulan, dosisnya adalah 25 mg/kg, tiga kali sehari, dan dikonsumsi selama maksimal tujuh hari.
+    </string>
+
+    <string name="mefenamat4">
+        Sama seperti obat-obat lain, asam mefenamat juga berpotensi menyebabkan efek samping. Beberapa efek samping yang umum
+        terjadi saat mengonsumsi obat ini adalah:
+        \n
+        \n\t 1. Gangguan pencernaan ringan
+        \n\t 2.	Mual dan muntah
+        \n\t 3.	Sakit ulu hati
+        \n\t 4. Sakit kepala
+        \n\t 5. Mengantuk dan kelelahan
+    </string>
+
+    <string name="mefenamat5">
+        Obat ini bisa mengurangi kesuburan seseorang sehingga sebaiknya dihindari bagi mereka yang sedang berencana untuk hamil.
+        \n
+        \nSetelah mengonsumsi obat ini, sebaiknya tidak mengemudi atau mengoperasikan alat berat karena obat ini bisa menimbulkan
+        rasa kantuk.
+        \n
+        \nHarap berhati-hati jika menderita tukak lambung, peradangan usus, asma, anemia, edema, alergi terhadap obat antiinflamasi
+        nonsteroid (misalnya aspirin dan ibuprofen), gangguan hati, gangguan ginjal, penyakit jantung, gangguan penggumpalan darah,
+        hipertensi, epilepsi, lupus, porfiria, serta pernah menjalani operasi jantung.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="bacitracin1">
+        Bacitracin digunakan untuk mencegah infeksi kulit ringan yang disebabkan oleh luka kecil, goresan, atau luka bakar.
+        Obat ini termasuk dalam kelas obat antibiotik. Bacitracin bekerja dengan menghentikan pertumbuhan bakteri tertentu.
+        \n
+        \nAntibiotik ini hanya mencegah infeksi bakteri. Obat ini tidak akan bekerja untuk infeksi virus atau jamur.
+        Penggunaan antibiotik apapun yang tidak perlu atau berlebihan dapat menyebabkan efektivitasnya menurun.
+        \n
+        \nJangan gunakan produk ini di permukaan kulit tubuh yang luas. Jangan menggunakannya untuk infeksi kulit
+        yang serius. Tanyakan kepada dokter terlebih dahulu sebelum menggunakan produk ini untuk cedera kulit yang serius
+        (seperti luka dalam atau tusukan, gigitan binatang, luka bakar serius). Perlakuan yang berbeda mungkin diperlukan
+        untuk jenis kondisi tersebut. Konsultasikan dengan dokter untuk informasi lebih lanjut.
+        \n
+        \nObat ini hanya digunakan pada kulit. Jika pengguna akan mengobati diri sendiri, ikuti semua petunjuk pada
+        kemasan produk. Jika pengguna tidak yakin tentang suatu informasi, tanyakan kepada dokter atau apoteker
+    </string>
+
+    <string name="bacitracin2">
+        Cuci tangan sebelum menggunakan obat ini. Bersihkan dan keringkan daerah yang bermasalah. Lalu oleskan sejumlah
+        kecil obat (tidak lebih dari seukuran ujung jari) dengan lembut, tipis-tipis, biasanya 1 sampai 3 kali sehari atau
+        seperti yang diarahkan oleh dokter. Jika pengguna menggunakan bentuk obat semprot, kocok botol dengan baik lebih dahulu
+        sebelum digunakan. Pengguna mungkin dapat menutupi area tersebut dengan perban steril. Cuci tangan setelah menggunakan
+        obat ini.
+    </string>
+
+    <string name="bacitracin3">
+        Infeksi kulit dangkal, topical
+        \nSalep: Oleskan jumlah yang sama dengan luas permukaan jari ke daerah yang bermasalah 1-3 kali sehari.
+        \nBubuk: Bubuhkan bubuk bacitracin pada daerah yang bermasalah 1-3 kali sehari.
+    </string>
+
+    <string name="bacitracin4">
+        Obat ini biasanya tidak memiliki efek samping. Jika pengguna memiliki efek yang tidak biasa, hubungi dokter
+        atau apoteker segera.
+    </string>
+
+    <string name="bacitracin5">
+        Jangan menggunakan obat ini pada kulit yang mengalami luka cukup besar dan dalam. Tindakan pencegahan infeksi
+        dari luka yang parah harus dilakukan oleh dokter.
+        \n
+        \nHarap berhati-hati selama menggunakan bacitracin agar tidak mengenai mulut dan hidung, tertelan, atau mengenai
+        mata karena obat ini hanya untuk lapisan luar kulit.
+        \n
+        \nBeri tahu dokter jika sedang menggunakan obat-obat lain, termasuk suplemen dan produk herba.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="bromhexine1">
+        Bromhexine adalah obat mukolitik dengan level kandungan kimia yang rendah, fungsinya untuk membantu meredakan
+        batuk berdahak dengan menipiskan dahak di saluran pernapasan. Obat ini bekerja dengan cara menghambat kerja
+        sel yang menghasilkan dahak atau mukus, sehingga menghasilkan dahak yang tidak kental dan mudah untuk dikeluarkan.
+    </string>
+
+    <string name="bromhexine2">
+        Bromhexine dapat dikonsumsi dengan atau tanpa makanan. Bromhexine tersedia dalam bentuk tablet dan sirup.
+        Untuk tablet, konsumsi bromhexine dengan air. Untuk sirup, kocok terlebih dahulu sebelum dikonsumsi. Jangan hentikan
+        konsumsi apabila pengguna tidak merasakan efek dalam jangka waktu pendek karena dibutuhkan cukup waktu bagi bromhexine
+        untuk bereaksi. Konsultasi pada dokter apabila tidak terlihat kemajuan setelah 14 hari. Jangan menggandakan dosis.
+    </string>
+
+    <string name="bromhexine3">
+        Tablet: 8 hingga 16 mg 3 kali sehari. Total dosis harian dapat mencapai 48 mg pada dewasa (untuk 7 hari).
+        \nSirup: 2 x 5 ml untuk 3 kali sehari hingga 3 x 5 ml untuk 4 kali sehari.
+        \n
+        \nBromhexine juga bisa diberikan melalui cara inhalasi (uap) dengan bentuk bromhexine cairan, dosisnya akan
+        diberikan sesuai dengan petunjuk dokter.
+    </string>
+
+    <string name="bromhexine4">
+        Efek samping yang mungkin terjadi setelah menggunakan bromhexine adalah :
+        \n
+        \n\t1.\t Pusing
+        \n\t2.\t Sakit kepala
+        \n\t3.\t Mual
+        \n\t4.\t Perut kembung
+        \n\t5.\t Diare
+        \n\t6.\t Gatal
+        \n\t7.\t Ruam
+        \n\t8.\t Sesak napas
+        \n\t9.\t Angioedema atau pembengkakan di bawah kulit
+        \n
+        \nJika pengguna mengalami gejala efek samping yang berkepanjangan atau reaksi alergi, segera hubungi dokter
+        untuk mendapatkan penanganan.
+    </string>
+
+    <string name="bromhexine5">
+        Jangan berikan kepada anak di bawah 2 tahun.
+        \n
+        \nHindari mengonsumsi bromhexine jika memiliki alergi terhadap obat ini.
+        \n
+        \nBeri tahu dokter apabila saat ini Anda sedang menjalani pengobatan dengan obat-obatan lainnya, termasuk
+        suplemen dan produk herba.
+        \n
+        \nHati-hati mengonsumsi bromhexine jika Anda mengalami gejala pneumonia atau penyakit paru obstruktif kronis
+        (PPOK), serta memiliki sistem kekebalan tubuh yang rendah, seperti AIDS atau pasca kemoterapi.
+        \n
+        \nBerhati-hatilah jika Anda pernah atau sedang menderita tukak lambung, gangguan ginjal, dan gangguan hati.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah menggunakan bromhexine, segera hubungi dokter.
+    </string>
+
+    <string name="cetirizin1">
+        Cetirizine adalah obat golongan antihistamin yang dapat digunakan untuk mengatasi gejala-gejala alergi,
+        seperti pilek, hidung tersumbat, mata berair, bersin-bersin, rasa gatal pada mata atau hidung, serta ruam pada kulit.
+        \n
+        \nCetirizine bekerja dengan cara menghalangi kerja senyawa histamin yang diproduksi oleh tubuh. Senyawa
+        inilah yang menyebabkan gejala alergi.
+        \n
+        \nCetirizine tidak dapat mencegah gatal atau mencegah/mengobati reaksi alergi serius (misalnya anafilaktik).
+        Maka, bila dokter telah meresepkan epinephrine untuk mengobati reaksi alergi, selalu bawa alat suntik epinephrine.
+        Jangan gunakan cetirizine sebagai pengganti epinephrine.
+    </string>
+
+    <string name="cetirizin2">
+        Baca keterangan pada kemasan obat sebelum mulai mengonsumsi cetirizine. Pastikan pengguna mengonsumsi obat
+        ini sesuai dengan petunjuk dokter. Cetirizine dapat dikonsumsi sebelum atau sesudah makan.
+        \n
+        \nJika pengguna mengonsumsi obat ini dalam bentuk cair, gunakanlah takaran dengan sendok khusus yang disertakan
+        dalam kemasan. Jangan menggunakan sendok makan biasa karena kemungkinan takarannya berbeda. Pengguna juga sebaiknya
+        menghindari konsumsi minuman keras selama menggunakan obat ini karena dapat memperparah potensi efek samping antihistamin.
+        \n
+        \nBagi pengguna yang lupa mengonsumsi cetirizine, disarankan segera melakukannya jika jeda dengan jadwal
+        konsumsi berikutnya tidak terlalu dekat. Jika sudah dekat, jangan menggandakan dosis.
+        \n
+        \nBeritahu dokter kalau gejala alergi Anda tidak membaik, gatal-gatal tidak kunjung hilang 3 hari setelah pengobatan,
+        atau gatal berlangsung lebih dari 6 minggu. Dapatkan pertolongan medis segera bila kondisi pengguna memburuk atau pengguna
+        mungkin memiliki masalah kesehatan serius (misalnya reaksi alergi sangat serius/anaphylaxis).
+    </string>
+
+    <string name="cetirizin3">
+        Dosis penggunaan cetirizine berbeda-beda untuk tiap pasien. Dokter akan menyesuaikan takaran sesuai usia,
+        riwayat kesehatan, dan reaksi tubuh pasien terhadap obat.
+    </string>
+
+    <string name="cetirizin4">
+        Sama seperti pada obat-obatan lainnya, penggunaan cetirizine juga dapat menimbulkan efek samping.
+        Sejumlah efek samping yang biasanya terjadi setelah seseorang mengonsumsi obat antihistamin ini adalah:
+        \n
+        \n\t1.\tMengantuk
+        \n\t2.\tPusing
+        \n\t3.\tLemas dan lelah
+        \n\t4.\tMual
+        \n\t5.\tPusing
+        \n\t6.\tMulut kering
+        \n\t7.\tIritasi hidung
+        \n\t8.\tSakit tenggorokan
+        \n\t9.\tSakit perut
+        \n\t10.\tDiare
+        \n
+        \nTidak semua orang mengalami efek samping berikut ini. Mungkin ada beberapa efek samping yang tidak disebutkan di atas.
+        Bila pengguna mengalami kekhawatiran mengenai efek samping tertentu, konsultasikanlah pada dokter atau apoteker.
+    </string>
+
+    <string name="cetirizin5">
+        Bagi anak-anak dan wanita yang sedang hamil, menyusui, atau berencana hamil, sesuaikan dosis dan frekuensi pemakaian
+        cetirizine dengan anjuran dokter.
+        \n
+        \nHarap berhati-hati bagi penderita gangguan ginjal, gangguan hati, diabetes, dan porfiria, atau memiliki alergi
+        terhadap obat-obatan golongan antihistamin.
+        \n
+        \nUsahakan untuk tidak mengemudi atau mengoperasikan alat berat selama menjalani pengobatan dengan cetirizine,
+        karena obat ini dapat menimbulkan kantuk.
+        \n
+        \nHentikan penggunaan obat ketika gejala telah membaik.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+    <string name="cipro1">
+        Ciprofloxacin adalah antibiotik untuk mengobati berbagai macam infeksi bakteri. Cara kerja ciprofloxacin
+        adalah dengan menghentikan pertumbuhan bakteri. Ciprofloxacin termasuk dalam kelas obat bernama antiobiotik
+        quinolone dan hanya mengobati infeksi bakteri, sehingga obat ini tidak akan bekerja pada infeksi virus (seperti
+        pilek, flu). Penggunaan antibiotik apapun yang tidak perlu atau berlebihan dapat mengurangi efektivitas obat.
+    </string>
+
+    <string name="cipro2">
+        Obat ini mungkin diminum sebelum atau sesudah makan sesuai arahan dokter, biasanya dua kali sehari pada pagi dan malam
+        hari. Gunakan obat ini selama setidaknya 2 jam sebelum atau 6 jam sesudah menggunakan produk lain, yang mengurangi
+        efektivitas obat. Tanyakan apoteker tentang produk lain yang Anda gunakan. Contohnya: quinaprl, sucralfate,
+        vitamin/mineral (termasuk suplemen zat besi dan zinc), dan produk yang mengandung magnesium, aluminium, atau kalsium
+        (seperti antacid, larutan didanosine, suplemen kalsium).
+        \n
+        \nMakanan yang kaya kalsium, termasuk produk susu (macam susu, yogurt) atau jus yang diperkaya dengan kalsium, juga
+        bisa mengurangi efek obat. Gunakan obat ini setidaknya 2 jam sebelum atau 6 jam sesudah makan makanan kaya kalsium,
+        kecuali kalau Anda mengonsumsi makanan ini sebagai bagian dari satu menu yang tidak terlalu tinggi kalsium. Makanan ini
+        mengurangi efek pengikatan kalsium.
+        \n
+        \nAntibiotik paling ampuh ketika jumlah obat di dalam tubuh dijaga dengan tingkat yang konsisten. Maka, minum obat
+        ini pada jangka waktu yang sesuai. Lanjutkan menggunakan obat ini sampai habis, meskipun gejala menghilang setelah
+        beberapa hari. Menghentikan pengobatan terlalu dini mungkin mengizinkan bakteri untuk tetap tumbuh, yang berakibat
+        kambuhnya infeksi
+    </string>
+
+    <string name="cipro3">
+        Dosis penggunaan antibiotik ini tergantung pada jenis dan tingkat keparahan infeksi yang diderita. Hubungi dokter untuk
+        dosis anak-anak atau remaja berusia dibawah 18 tahun.
+    </string>
+
+    <string name="cipro4">
+        Ciprofloxacin jarang menyebabkan efek samping. Beberapa efek samping yang bisa terjadi saat mengonsumsi obat ini adalah
+        mual, sakit perut dan sering buang gas. Hubungi dokter jika reaksi alergi sepert ruam, pembekakan disekitar wajah dan
+        mulut serta kesulitan bernafas.
+    </string>
+
+    <string name="cipro5">
+        Perlu berhati-hati bagi penderita gangguan ginjal, tendonitis, penyakit jantung, aritmia, myasthenia gravis,
+        defisiensi glukosa-6-fosfat dehidrogenase (G6PD), serta epilepsi atau gangguan lainnya yang dapat menyebabkan
+        kejang-kejang.
+        \n
+        \nWaspada dalam menggunakan obat ini bagi penderita sinusitis bakterial akut (ABS), bronkitis bakterial kronis
+        eksaserbasi akut (ABECB), dan infeksi kandung kemih tanpa komplikasi.  Gunakan ciprofloxacin atau antibiotik golongan
+        fluoroquinolone lainnya hanya apabila tidak ada pilihan terapi lain.
+        \n
+        \nPenting untuk meminum obat ini sampai habis sesuai dosis yang dianjurkan dokter agar bakteri penyebab infeksi
+        musnah seluruhnya serta mencegah kambuhnya infeksi.
+        \n
+        \nSusu, jeruk, obat antasida, dan suplemen yang mengandung zat besi atau zinc dapat menghambat kinerja obat ini.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+    <string name="dexamethasone1">
+        Dexamethasone merupakan kelompok obat kortikosteroid. Obat ini bekerja dengan cara mencegah pelepasan zat-zat di
+        dalam tubuh yang menyebabkan peradangan.
+        \n
+        \nDexamethasone digunakan untuk menangani sejumlah kondisi, seperti penyakit autoimun (misalnya sarkoidosis dan lupus),
+        penyakit peradangan pada usus (misalnya ulcerative colitis dan penyakit Crohn), beberapa jenis penyakit kanker, serta
+        alergi.
+        \n
+        \nDexamethasone juga digunakan untuk mengatasi mual dan muntah akibat kemoterapi, mengobati hiperplasia adrenal kongenital,
+        serta digunakan untuk mendiagnosis sindrom Cushing.
+        \n
+        \nDexamethasone merupakan jenis obat terbatas dan hanya bisa dibeli dengan resep dokter. Selain berbentuk tablet dan
+        sirup, dexamethasone juga tersedia dalam bentuk suntik dan diperuntukkan bagi mereka yang mengalami kesulitan menelan
+        obat atau bagi mereka yang membutuhkan penanganan cepat.
+    </string>
+
+    <string name="dexamethasone2">
+        Minumlah obat ini sesuai dengan arahan yang diberikan oleh dokter. Konsumsilah dengan makanan atau susu untuk mencegah
+        sakit perut. Minumlah obat ini dengan segelas penuh air (240 mililiter) kecuali dokter menyarankan sebaliknya. Jika
+        penggunaan obat dalam bentuk cair, gunakanlah alat penakar obat. Jangan gunakan sendok rumahan.
+        \n
+        \nDosis dan lamanya pengobatan didasarkan pada kondisi medis pengguna dan respon terhadap pengobatan. Dokter mungkin
+        mencoba untuk mengurangi dosis secara perlahan-lahan dari waktu ke waktu untuk meminimalkan efek samping.
+        \n
+        \nGunakan obat ini secara teratur untuk mendapatkan manfaatnya. Untuk membantu pengguna ingat, gunakan pada waktu yang
+        sama setiap hari. Penting untuk terus minum obat ini bahkan bila pengguna telah merasa lebih baik. Ikuti jadwal penggunaan
+        dosis secara hati-hati, dan minum obat ini persis sesuai yang ditentukan.
+        \n
+        \nJangan berhenti minum obat ini tanpa berkonsultasi dengan dokter. Beberapa kondisi bisa menjadi lebih buruk ketika
+        penggunaan obat ini tiba-tiba berhenti. Dosis mungkin perlu diturunkan secara bertahap. Informasikan dokter jika kondisi
+        pengguna tidak membaik atau semakin memburuk.
+        \n
+        \nIkuti aturan yang diberikan oleh dokter atau apoteker sebelum memulai pengobatan. Jika memiliki pertanyaan,
+        konsultasikanlah pada dokter atau apoteker
+    </string>
+
+    <string name="dexamethasone3">
+        Dosis Dexamethasone akan tergantung pada penyakit atau gejala yang ditangani.
+        Umumnya dosis awal yang akan diresepkan dokter berada diantara 0,75-9 mg per harinya.
+        \n
+        \nPerlu diketahui bahwa dosis Dexamethasone akan disesuaikan dengan perkembangan penyakit/gejala dan respon tubuh
+        terhadap obat ini.
+        \n
+        \nUntuk pengguna anak-anak, berat badan mereka juga perlu dipertimbangkan dalam menentukan dosis obat ini. Untuk
+        informasi lebih lanjut, tanyakan pada dokter.
+    </string>
+
+    <string name="dexamethasone4">
+        Dexamethasone dapat menyebabkan efek samping dan bentuk efek samping tersebut bisa berbeda-beda pada penggunanya.
+        Ada beberapa efek samping yang mereda seiring dengan tubuh menyesuaikan diri dengan obat ini.
+        \n
+        \nBeberapa efek samping dexamethasone yang umum adalah :
+        \n
+        \n\t1.\t Badan terasa lelah atau lemas.
+        \n\t2.\t Gangguan pola tidur.
+        \n\t3.\t Sakit kepala.
+        \n\t4.\t Vertigo.
+        \n\t5.\t Keringat berlebihan.
+        \n\t6.\t Jerawat.
+        \n\t7.\t Kulit kering dan menipis serta gampang memar.
+        \n\t8.\t Pertumbuhan rambut yang tidak biasa.
+        \n\t9.\t Mudah haus.
+        \n\t10.\t Sering buang air kecil.
+        \n\t11.\t Nyeri otot.
+        \n\t12.\t Nyeri pada sendi atau/dan tulang.
+        \n\t13.\t Sakit perut atau perut terasa kembung.
+        \n\t14.\t Rentan terhadap infeksi.
+    </string>
+
+    <string name="dexamethasone5">
+        Untuk memastikan bahwa Anda dapat mengonsumsi dexamethasone dengan aman, informasikan kepada dokter jika pengguna
+        memiliki masalah kesehatan seperti tekanan darah tinggi, depresi atau gangguan mental, infeksi herpes pada mata,
+        gangguan otot, TBC, diabetes, penyakit ginjal, gagal jantung, radang lambung, glaukoma atau katarak, penggumpalan darah,
+        osteoporosis, gangguan tiroid, penyakit hati.
+        \n
+        \nHati-hati dan konsultasikan dengan dokter sebelum menggunakan dexamethasone apabila Anda adalah wanita yang berencana
+        untuk hamil, sedang hamil, atau menyusui.
+        \n
+        \nBeri tahu dokter jika Anda baru saja atau akan menerima vaksin.
+        \n
+        \nBeri tahu dokter jika Anda baru-baru saja berdekatan dengan penderita cacar air, campak atau cacar ular (herpes zoster).
+        Pengguna dexamethasone perlu menghindari pengidap penyakit menular karena sistem kekebalan tubuh mereka melemah saat
+        sedang mengonsumsi obat steroid.
+        \n
+        \nJangan menghentikan pengobatan secara langsung tanpa bertanya terlebih dahulu pada dokter, karena penghentian obat
+        secara tiba-tiba dapat menyebabkan masalah.
+        \n
+        \nJika terjadi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+    <string name="dextro1">
+        Dextromethorphan adalah obat yang dapat digunakan untuk meredakan batuk kering yang muncul akibat infeksi tertentu,
+        seperti flu atau sinusitis. Dextromethorphan bekerja dengan cara menekan dorongan untuk batuk yang berasal dari otak.
+        \n
+        \nDextromethrophan tidak cocok digunakan untuk mengatasi batuk berdahak. Selain itu, obat ini juga tidak boleh digunakan
+        untuk batuk jangka panjang yang mungkin disebabkan oleh bronkitis kronis, asma, emfisema, atau kebiasaan merokok
+    </string>
+
+    <string name="dextro2">
+        Gunakanlah dextromethorphan sesuai keterangan pada kemasan dan tanyakan pada dokter jika Anda ragu.
+        \n
+        \nDextromethorphan dapat diminum sebelum atau sesudah makan. Selama menggunakan obat ini, pasien dianjurkan
+        untuk menghindari konsumsi minuman keras guna mencegah risiko efek samping.
+        \n
+        \nPenderita diabetes sebaiknya berhati-hati dan memantau kadar gula darah selama mengonsumsi dextromethorphan
+        karena beberapa jenis produk obat ini mengandung glukosa.
+        \n
+        \nPastikan ada jarak waktu yang cukup antara satu dosis dengan dosis berikutnya.
+        \n
+        \n Apabila mengonsumsi dextromethorphan dalam bentuk sirup, sebaiknya menggunakan sendok atau gelas takar
+        khusus yang disertakan dalam kemasan. Jangan menggunakan sendok makan biasa karena kemungkinan takarannya berbeda.
+        \n
+        \n Temui dokter kembali jika gejala tidak kunjung reda setelah mengonsumsi dextromethorphan selama 7 hari.
+    </string>
+
+    <string name="dextro3">
+        Dextromethorphan merupakan salah satu bahan yang dicampurkan dalam berbagai obat batuk, flu, dan pilek.
+        Dosis penggunaan obat ini tidak sama untuk tiap bentuk obat dan dapat dilihat pada masing-masing kemasan.
+    </string>
+
+    <string name="dextro4">
+        Tiap obat berpotensi menyebabkan efek samping, termasuk dextromethorphan.
+        Beberapa efek samping yang umumnya terjadi saat mengonsumsi obat ini adalah :
+        \n
+        \n\t1.\t Mengantuk.
+        \n\t2.\t Pusing.
+        \n\t3.\t Mual.
+        \n\t4.\t Muntah.
+        \n
+        \nSegera hentikan pemakaian obat dan temui dokter jika Anda mengalami efek samping yang serius, seperti
+        kesulitan bernapas, ruam, pusing yang parah, kecemasan, gelisah, linglung, atau napas pendek.
+        \n
+        \nPerlu diingat bahwa obat dengan kandungan 100 persen dextromethorphan tidak tersedia dan umumnya dikombinasikan
+        dengan bahan-bahan lain. Pastikan untuk membaca komposisi bahan yang terdapat pada tiap obat. Jangan mengonsumsi
+        lebih dari satu obat yang mengandung dextromethorphan pada waktu yang sama untuk menghindari overdosis.
+    </string>
+
+    <string name="dextro5">
+        Bagi wanita yang merencanakan kehamilan, sedang hamil, dan menyusui, penggunaan dextromethorphan harus dengan
+        anjuran dokter.
+        \n
+        \nJangan memberikan dextromethorphan pada anak-anak di bawah usia 4 tahun. Senantiasa tanyakan kepada dokter sebelum
+        memberikan obat pilek atau obat batuk pada bayi dan anak-anak.
+        \n
+        \nHarap berhati-hati jika menderita asma, gangguan pernapasan lainnya, atau diabetes.
+        \n
+        \nDisarankan untuk tidak mengemudi atau mengoperasikan alat berat selama menjalani pengobatan dengan dextromethorphan
+        karena obat ini bisa menyebabkan kantuk atau pusing.
+        \n
+        \nDextromethorphan sebaiknya tidak dikonsumsi bersamaan dengan obat batuk, pilek, atau flu lainnya untuk menghindari
+        overdosis.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="diazepam1">
+        Diazepam adalah salah satu jenis obat benzodiazepine yang dapat memengaruhi sistem saraf otak dan memberikan efek penenang.
+        Diazepam bekerja dengan cara mempengaruhi neurotransmiter, yang berfungsi memancarkan sinyal ke sel otak. Obat ini
+        digunakan untuk mengatasi gangguan kecemasan, insomnia, kejang-kejang, gejala putus alkohol akut, serta digunakan sebagai
+        obat bius sebelum operasi.
+        \n
+        \nDiazepam termasuk obat golongan benzodiazepine yang bekerja di otak dan saraf (sistem saraf pusat) untuk menghasilkan
+        efek tenang. Obat ini bekerja dengan meningkatkan efek bahan kimia otak tertentu. Obat ini juga dapat digunakan untuk
+        mencegah mimpi buruk (night terror)
+        \n
+        \nDiazepam tidak disarankan untuk digunakan secara jangka panjang, dan maksimal umumnya hanya sekitar 4 minggu.
+        Efek obat ini bisa bertahan selama beberapa jam atau bahkan beberapa hari setelah dikonsumsi.
+
+    </string>
+
+    <string name="diazepam2">
+        Diazepam dalam bentuk oral dapat diminum sebelum atau sesudah makan. Jika Anda mengonsumsi diazepam untuk
+        mengatasi insomnia, konsumsilah obat ini sebelum tidur.
+        \n
+        \nDosis diazepam biasanya akan diturunkan oleh dokter secara perlahan-lahan sebelum dihentikan total. Hal ini
+        dilakukan untuk mencegah terjadinya gejala putus obat.
+        \n
+        \nJika Anda yang lupa mengonsumsi diazepam, disarankan untuk segera melakukannya jika jeda dengan jadwal konsumsi
+        berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nHindari konsumsi grapefruit untuk menghindari potensi terjadinya efek samping saat dalam pengobatan menggunakan
+        diazepam.
+    </string>
+
+    <string name="diazepam3">
+        Dosis penggunaan Diazepam tergantung pada jenis penyakit atau tujuan penggunaan obat ini. Bagi lansia, dosis akan
+        disesuaikan dengan kondisi tubuh dan penyakit yang dialami. Umumnya, dosis untuk mereka adalah setengah
+        dari dosis orang dewasa.
+        \n
+        \n Untuk diazepam dalam bentuk suntik atau supositoria rektal, dokter akan menyesuaikannya dengan kondisi pasien
+        dirumah sakit.
+    </string>
+
+    <string name="diazepam4">
+        Reaksi seseorang terhadap sebuah obat dapat berbeda-beda. Beberapa efek samping yang umum terjadi dalam penggunaan
+        diazepam adalah:
+        \n
+        \n\t1.\t Mengantuk atau pusing.
+        \n\t2.\t Lemas.
+        \n\t3.\t Gangguan fungsi koordinasi atau keseimbangan.
+        \n\t4.\t Penglihatan kabur.
+        \n\t5.\t Sakit kepala.
+        \n\t6.\t Mudah lupa dan merasa bingung.
+        \n\t7.\t Bersikap agresif.
+        \n
+        \nJika terjadi efek samping secara berkepanjangan atau Anda mengalami efek samping yang parah setelah menggunakan
+        diazepam, seperti reaksi alergi, gejala infeksi, berhalusinasi, kesulitan berbicara atau menggerakan tubuh, tubuh
+        menguning atau kesulitan berkemih, segera temui dokter atau pergi ke rumah sakit terdekat agar cepat ditangani.
+        \n
+        \nJangan mengonsumsi diazepam lebih dari yang dianjurkan karena overdosis yang ditimbulkannya dapat berakibat fatal.
+    </string>
+
+    <string name="diazepam5">
+        Jangan menggunakan diazepam dalam jangka panjang untuk menghindari ketagihan, kecanduan, dan juga efek kebal terhadap obat ini.
+        \n
+        \nHindari mengonsumsi minuman beralkohol selama pengobatan karena berpotensi meningkatkan efek sedatif dari obat.
+        \n
+        \nDiazepam dapat mengakibatkan rasa kantuk, pusing, dan penglihatan kabur. Usahakan jangan mengemudi atau
+        mengoperasikan alat berat saat mengonsumsi obat ini.
+        \n
+        \nHarap berhati-hati bagi pecandu narkoba dan alkohol, penderita gangguan pernapasan, gangguan ginjal, gangguan hati,
+        gangguan mental, kelainan pada darah, glaukoma, dan myasthenia gravis.
+        \n
+        \nTemui dokter jika mengalami perubahan pola pikir atau perilaku. Obat ini bisa menyebabkan kebingungan, halusinasi,
+        dan bahkan keinginan untuk bunuh diri.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="ethambutol1">
+        Ethambutol adalah obat yang digunakan untuk mengobati tuberkulosis. Dalam pengobatan tuberkulosis, obat ini dikonsumsi
+        bersama dengan antibiotik lainnya, baik dalam bentuk tunggal atau tablet kombinasi. Ethambutol bekerja dengan menghentikan
+        pertumbuhan bakteri penyebab tuberkulosis. Obat ini tidak digunakan untuk mengatasi penyakit yang disebabkan oleh infeksi
+        virus, seperti flu.
+        \n
+        \nObat ini juga dapat digunakan dengan obat lain untuk mengobati infeksi serius MAC (mycobacterium avium complex).
+        Obat ini juga dapat digunakan dengan obat lain untuk mencegah infeksi MAC agar tidak kembali menyerang pada penderita
+        HIV tingkat lanjut.
+    </string>
+
+    <string name="ethambutol2">
+        Ikuti anjuran dokter dan baca informasi yang tertera pada kemasan sebelum mengonsumsi obat.
+        \n
+        \nBiasanya dokter akan menjelaskan 2 cara mengonsumsi ethambutol, yaitu harian atau 3 kali seminggu. Dosis ditentukan
+        berdasarkan kondisi, umur, berat badan, respon tubuh terhadap obat, dan adanya pengobatan lain.
+        \n
+        \nEthambutol dapat dikonsumsi sebelum, sewaktu, atau setelah makan. Pastikan mengonsumsi ethambutol secara rutin
+        agar mendapatkan hasil yang maksimal. Jangan menghentikan pengobatan secara mendadak dan tanpa anjuran dokter, karena
+        dikhawatirkan dapat memperburuk kondisi.
+        \n
+        \nApabila pengguna mengonsumsi juga obat-obatan antasid yang mengandung aluminum, maka konsumsilah obat ini
+        setidaknya 4 jam sebelum obat antasid tersebut.
+        \n
+        \nLanjutkan mengonsumsi obat ini (dan obat TB lain) sampai seluruh jumlah obat yang diresepkan habis, meskipun gejalanya
+        telah hilang. Menghentikan konsumsi obat terlalu dini atau meloncati jadwal dosis akan menyebabkan bakteri berlanjut tumbuh
+        yang dapat menyebabkan infeksi dapat kembali dan kemudian infeksi tersebut menjadi lebih sulit ditangani (resistan).
+        Ikuti aturan yang diberikan oleh dokter atau apoteker sebelum memulai pengobatan. Jika Anda memiliki pertanyaan,
+        konsultasikanlah pada dokter atau apoteker.
+    </string>
+
+    <string name="ethambutol3">
+        Pengobatan tuberkulosis setidaknya membutuhkan waktu 6 bulan. Untuk dewasa, dosis yang ditentukan dokter umumnya
+        adalah 15 mg/kgBB, satu kali sehari, atau 30 mg/kgBB, tiga kali seminggu. Ethambutol biasanya diberikan bersamaan
+        dengan rifampicin, isoniazid, dan pyrazinamide selama 8 minggu awal masa pengobatan.
+        \n
+        \nDosis untuk anak-anak adalah 25 mg/kgBB sekali sehari selama 60 hari. Setelah itu, dosis akan dikurangi menjadi
+        15 mg/kgBB/hari
+    </string>
+
+    <string name="ethambutol4">
+        Berikut ini adalah efek samping penggunaan obat ethambutol yang dapat terjadi :
+        \n
+        \n\y1.\t Nyeri perut
+        \n\y2.\t Nafsu makan turun
+        \n\y3.\t Gangguan fungsi hati
+        \n\y4.\t Mual
+        \n\y5.\t Muntah
+        \n\y6.\t Lemas
+        \n\y7.\t Demam
+        \n\y8.\t Sakit kepala
+        \n\y9.\t Delirium
+        \n\y10.\t Gangguan penglihatan
+        \n\y11.\t Gangguan saraf
+        \n\y12.\t Gatal
+        \n\y13.\t Ruam
+        \n\y14.\t Anafilaksis
+        \n\y15.\t Penyakit asam urat
+        \n
+        \nEfek samping yang berkepanjangan dapat membahayakan. Segera temui dokter apabila hal tersebut terjadi.
+    </string>
+
+    <string name="ethambutol5">
+        Hati-hati dalam menggunakan ethambutol bila sedang atau pernah mengalami gangguan ginjal dan gangguan penglihatan,
+        seperti retinopati diabetik dan katarak.
+        \n
+        \nBeri tahu dokter apabila sedang mengonsumsi obat lain, suplemen, atau produk herba.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah mengonsumsi ethambutol, segera hubungi dokter.
+    </string>
+
+    <string name="fluconazole1">
+        Fluconazole adalah obat yang digunakan untuk mengobati candidiasis. Candidiasis adalah infeksi akibat jamur Candida.
+        Bagian tubuh yang bisa terinfeksi oleh jamur ini meliputi vagina, mulut, tenggorokan, kerongkongan, rongga perut,
+        paru, saluran kemih, dan aliran darah.
+        \n
+        \nFluconazole juga bermanfaat untuk mengobati meningitis yang disebabkan jamur Cryptococcus (cryptococcal meningitis).
+        Selain itu, obat ini juga mampu mencegah infeksi jamur pada pasien yang memiliki sistem kekebalan tubuh lemah, seperti
+        pasien yang menjalani kemoterapi atau radioterapi, setelah transplantasi sumsum tulang, serta penderita AIDS.
+        \n
+        \nFluconazole bekerja menghentikan atau menghambat pertumbuhan jamur dengan menghambat enzim pertumbuhan pada jamur.
+    </string>
+
+    <string name="fluconazole2">
+        Gunakan fluconazole sesuai anjuran dokter dan keterangan pada label kemasan.
+        \n
+        \nJangan berhenti menggunakan obat ini sebelum jangka waktu yang telah ditentukan dokter, meskipun infeksi terlihat
+        sudah sembuh. Hal ini dilakukan untuk mencegah jamur tumbuh kembali.
+        \n
+        \nUsahakan untuk menggunakan fluconazole secara rutin pada jam yang sama setiap hari. Hal ini dilakukan untuk
+        memaksimalkan efek obat.
+        \n
+        \nBagi pasien yang lupa menggunakan fluconazole, disarankan segera melakukannya begitu teringat jika jeda dengan
+        jadwal penggunaan berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nUmumnya, pasien akan merasa lebih baik setelah beberapa hari sejak masa pengobatan dengan fluconazole dimulai.
+        Jika gejala tidak membaik atau justru semakin memburuk, segera hubungi dokter.
+    </string>
+
+    <string name="fluconazole3">
+        Untuk pencegahan infeksi jamur pada pasien dengan gangguan sistem kekebalan tubuh :
+        \n
+        \n\t Dewasa : 50-400 mg per hari.
+        \n\t Anak-anak : Disesuaikan dengan berat badan dan umur anak
+        \n
+        \n Untuk jamur kulit, panu 50 mg, sekali sehari, sampai 6 minggu.
+        \n
+        \n Untuk Candidal balanitis (penis), vaginal candidiasis, 150 mg dosis tunggal.
+    </string>
+
+    <string name="fluconazole4">
+        Efek samping yang umumnya muncul setelah menggunakan fluconazole, antara lain adalah :
+        \n
+        \n\t1.\t Sakit kepala.
+        \n\t2.\t Nyeri perut.
+        \n\t3.\t Perubahan pada indra pengecap.
+        \n\t3.\t Diare.
+        \n
+        \n Segera hubungi dokter jika mengalami efek samping yang meliputi sakit kepala yang disertai nyeri di bagian dada, pingsan, atau
+        jantung berdebar, kejang, mudah mengalami perdarahan atau memar, gangguan hati yang ditandai dengan kulit atau mata
+        menguning, urine berwarna gelap, mual, dan kehilangan nafsu makan.
+        \n
+        \nJika mengalami tanda alergi terhadap reaksi fluconazole, seperti gatal, sesak napas, serta pembengkakan di wajah,
+        lidah, bibir, atau tenggorokan, maka segera hubungi dokter atau tim medis untuk mendapatkan penanganan darurat.
+    </string>
+
+    <string name="fluconazole5">
+        Harap berhati-hati jika memiliki riwayat gangguan ginjal, gangguan hati, kanker, AIDS, gangguan irama jantung,
+        serta gangguan keseimbangan elektrolit.
+        \n
+        \nBerhati-hatilah jika baru saja melalui prosedur pembedahan, termasuk operasi gigi.
+        \n
+        \nBeri tahu dokter jika sedang atau berencana menggunakan obat tertentu, termasuk suplemen dan produk herba.
+        Dokter mungkin akan mengubah dosis atau memantau kondisi pasien terhadap kemungkinan munculnya efek samping.
+        \n
+        \nFluconazole dapat menyebabkan pusing. Jangan mengendarai kendaraan atau mengoperasikan mesin selama menggunakan obat ini.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah menggunakan fluconazole, segera temui dokter.
+    </string>
+
+    <string name="furosemid1">
+        Furosemide adalah obat golongan diuretik yang digunakan untuk membuang cairan atau garam berlebih di dalam tubuh
+        melalui urine dan meredakan pembengkakan yang disebabkan oleh gagal jantung, penyakit hati, penyakit ginjal atau kondisi
+        terkait.
+        \n
+        \nFurosemide juga dapat digunakan untuk penderita tekanan darah tinggi (hipertensi) saat obat diuretik lainnya tidak
+        bisa mengatasi kondisi ini lagi. Obat ini bisa digunakan sendiri atau dikombinasikan dengan obat diuretik lainnya, seperti
+        triamtene atau spironolactone. Kadang-kadang obat ini juga diresepkan bersama dengan mineral kalium.
+    </string>
+
+    <string name="furosemid2">
+        Ikuti anjuran dokter dan baca informasi yang tertera pada kemasan furosemide sebelum mulai menggunakannya.
+        Jangan menambahkan atau mengurangi dosis tanpa berkonsultasi dengan dokter.
+        \n
+        \nFurosemide oral dapat dikonsumsi sebelum atau sesudah makan. Minumlah furosemide tablet dengan air putih.
+        \n
+        \nJika pengguna mengonsumsi furosemide dalam bentuk sirup, gunakan sendok takar obat agar mendapatkan dosis yang tepat.
+        Hindari penggunaan sendok makan atau sendok teh.
+        \n
+        \nBagi pasien yang lupa mengonsumsi furosemide oral, disarankan segera melakukannya begitu teringat jika jeda
+        dengan jadwal konsumsi berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nDokter biasanya akan menyarankan pasien untuk tetap melanjutkan penggunaan obat meskipun kondisi kesehatan
+        sudah membaik untuk menghindari kambuhnya kondisi, khususnya penderita hipertensi.
+        \n
+        \nPastikan pengguna memeriksakan diri ke dokter secara teratur selama menggunakan furosemide agar dokter dapat memonitor
+        perkembangan kondisi pengguna.
+        \n
+        \nHindari mengonsumsi minuman keras saat sedang menggunakan furosemide, karena dapat menyebabkan pusing.
+        \n
+        \nDalam kasus tertentu, obat ini dapat membuat kulit lebih sensitif terhadap cahaya. Pastikan pengguna menggunakan
+        tabir surya dan pakaian tertutup saat beraktivitas di bawah terik matahari. Jika memungkinkan, hindari aktivitas
+        tersebut untuk sementara waktu.
+    </string>
+
+    <string name="furosemid3">
+        Dosis furosemide akan disesuaikan dengan kondisi yang dialami pasien. Dosis yang umumnya diresepkan dokter bagi
+        penderita edema, khususnya yang berkaitan dengan gagal jantung adalah 20-40mg/hari. Dosis ini dapat diturunkan per
+        20 mg secara berkala, atau justru dinaikkan ke 80mg jika kondisi kesehatan memburuk.
+        \n
+        \nBagi penderita hipertensi, dosis yang biasa disarankan adalah 40-80mg/hari yang dikonsumsi secara tunggal atau
+        dikombinasikan dengan obat antihipertensi lainnya.
+        \n
+        \nBagi yang memerlukan perawatan menggunakan cairan suntik, dosis akan disesuaikan dengan kondisi pasien di rumah sakit.
+        \n
+        \nUntuk penderita anak-anak, konsultasikan dengan dokter untuk mengetahui dosis yang tepat sesuai dengan berat
+        badan mereka.
+    </string>
+
+    <string name="furosemid4">
+        Sama seperti obat-obatan lainnya, furosemide berpotensi menyebabkan efek samping. Tapi seiring dengan penyesuaian
+        tubuh dengan obat, efek samping akan berkurang dan mereda. Efek samping yang umumnya terjadi dalam penggunaan
+        furosemide adalah :
+        \n
+        \n\t1.\t Pusing.
+        \n\t2.\t Vertigo.
+        \n\t3.\t Mual dan muntah.
+        \n\t4.\t Penglihatan buram.
+        \n\t5.\t Diare.
+        \n\t6.\t Konstipasi.
+        \n
+        \nPeriksakan diri ke dokter jika Anda mengalami efek samping sebagai berikut :
+        \n
+        \n\t1.\t Kram perut.
+        \n\t2.\t Merasa lelah.
+        \n\t3.\t Mudah mengantuk.
+        \n\t4.\t Mual parah.
+        \n\t5.\t Mulut terasa kering.
+        \n\t6.\t Aritmia.
+        \n\t7.\t Telinga berdenging.
+        \n\t8.\t Kulit menguning.
+        \n\t9.\t Pingsan.
+    </string>
+
+    <string name="furosemid5">
+        Harap berhati-hati bagi penderita penyakit ginjal, gangguan prostat, gangguan hati, penyakit asam urat,
+        kolesterol tinggi, lupus dan diabetes.
+        \n
+        \nHarap waspada bagi yang mengalami dehidrasi, sulit buang air kecil, memiliki tingkat natrium dan kalium
+        rendah dalam darah, atau gangguan keseimbangan kadar elektrolit.
+        \n
+        \nHindari penggunaan obat jika pengguna memiliki alergi antibiotik golongan sulfa. Konsultasikan dengan dokter
+        untuk mengetahui obat pengganti yang tepat untuk kondisi yang di derita.
+        \n
+        \nJika pengguna disarankan untuk menjalani pemeriksaan MRI atau pemindaian yang melibatkan penyuntikan zat radioaktif
+        ke dalam pembuluh vena, beri tahu dokter bahwa pengguna sedang menjalani pengobatan dengan furosemide. Kombinasi
+        furosemide dengan tes-tes tersebut dapat berbahaya bagi ginjal.
+        \n
+        \nFurosemide dapat meningkatkan kadar gula darah. Pastikan Anda rutin memeriksanya agar selalu terpantau, khususnya
+        bagi penderita diabetes.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+    
+    <string name="gentamicin1">
+        Gentamicin termasuk ke dalam golongan obat antibiotik. Obat ini digunakan untuk menangani infeksi akibat bakteri
+        dengan cara membunuh sekaligus mencegah pertumbuhan bakteri. Contoh infeksi yang dapat diatasi dengan gentamicin
+        meliputi infeksi mata, infeksi telinga, infeksi saluran kemih, serta infeksi kulit.
+        \n
+        \nSelain itu, pasien dengan luka pada mata atau telinga (misalnya karena tergores atau baru menjalani operasi)
+        juga biasanya dianjurkan memakai obat ini guna mencegah infeksi.
+    </string>
+
+    <string name="gentamicin2">
+        Gunakanlah gentamicin sesuai anjuran dokter dan jangan lupa untuk membaca keterangan pada kemasan. Selama
+        penggunaan obat ini, minumlah yang banyak untuk mencegah dehidrasi.
+        \n
+        \nPastikan penderita meneruskan proses pengobatan sesuai yang diresepkan oleh dokter meski infeksi kelihatan
+        sudah membaik. Ini dilakukan untuk mencegah kambuhnya infeksi. Temui dokter jika infeksi mata atau telinga tidak
+        membaik setelah menggunakan obat tetes lebih dari seminggu atau jika infeksi bertambah parah.
+        \n
+        \nPemeriksaan kesehatan (terutama untuk fungsi ginjal dan pendengaran) sebaiknya dilakukan secara rutin selama
+        dan sesudah penggunaan obat suntik gentamicin. Proses ini penting dalam memantau keefektifan antibiotik dan
+        memastikan tidak adanya efek samping.
+        \n
+        \nJangan lupa untuk mencuci tangan dan membersihkan bagian yang terinfeksi sebelum menggunakan gentamicin tetes
+        atau oles. Lalu, segeralah mencuci tangan setelah menggunakan obat.
+        \n
+        \nPasien yang menggunakan lensa kontak dianjurkan untuk tidak memakai lensa kontak sampai infeksi mata sembuh.
+        Lensa kontak boleh kembali digunakan sehari setelah pasien menyelesaikan dosis terakhir.
+        \n
+        \nBagi pasien yang lupa memakai obat tetes gentamicin, disarankan segera meneteskannya begitu teringat.
+        \n
+        \nUntuk obat suntik gentamicin, perhatikan isi kemasan sebelum digunakan. Cairan gentamicin harus bening dan tanpa
+        partikel. Jangan digunakan jika cairan telah berubah warna, berisi partikel, atau kemasannya bocor. Mintalah pada
+        petugas medis untuk memberikan yang baru.
+    </string>
+
+    <string name="gentamicin3">
+        Dosis gentamicin yang diberikan tergantung pada jenis infeksi, tingkat keparahannya, serta riwayat kesehatan pasien.
+        \n
+        \nUntuk Infeksi mata ringan; Obat tetes mata 0,3% 1-2 tetes; maksimal 6 kali sehari
+        \n
+        \nUntuk Infeksi mata parah;	Obat tetes mata 0,3% 1-2 tetes tiap 15 menit. Obat oles mata 0,3% 2-3 kali sehari
+        \n
+        \nUntuk Otitis eksterna; Obat tetes telinga 0,3% 2-3 tetes; 3-4 kali sehari sebelum tidur
+        \n
+        \nUntuk Infeksi parah; Obat suntik atau infus 3-5 mg/kg berat badan selama 7-10 hari
+        \n
+        \nUntuk Infeksi saluran kemih; Obat suntik atau infus 160 mg; 1 kali sehari
+        \n
+        \nUntuk Infeksi kulit; Obat oles 0,1% 3-4 kali sehari
+    </string>
+
+    <string name="gentamicin4">
+        Tiap obat pasti memiliki efek samping, termasuk gentamicin. Beberapa efek samping yang dapat terjadi setelah
+        menggunakan antibiotik ini adalah :
+        \n
+        \n\t1.\t Gangguan penglihatan.
+        \n\t2.\t Sakit kepala.
+        \n\t3.\t Ruam atau gatal pada kulit.
+        \n\t4.\t Mual.
+        \n\t5.\t Muntah.
+        \n\t6.\t Tidak nafsu makan.
+        \n\t7.\t Penurunan berat badan.
+        \n\t8.\t Nyeri sendi.
+        \n\t9.\t Limbung atau seperti mau pingsan.
+        \n
+        \nSegera hentikan hubungi dokter apabila Anda merasakan efek samping serius yang berupa bunyi gemuruh pada
+        telinga atau kehilangan kemampuan pendengaran, kejang, napas pendek, sensasi kebas atau geli, demam,
+        serta gangguan ginjal.
+    </string>
+
+    <string name="gentamicin5">
+        \nWanita yang merencanakan kehamilan atau sedang hamil dihimbau untuk menghindari penggunaan obat suntik gentamicin.
+        Sedangkan ibu menyusui harus menggunakannya sesuai dengan anjuran dokter.
+        \n
+        \nPenting bagi penderita untuk menggunakan gentamicin sesuai jangka waktu yang diresepkan dokter, guna memastikan
+        bakteri penyebab infeksi musnah serta mencegah kambuhnya infeksi.
+        \n
+        \nPengguna obat tetes mata gentamicin sebaiknya tidak mengemudi atau mengoperasikan alat berat untuk sementara.
+        Antibiotik ini dapat menyebabkan pandangan menjadi samar.
+        \n
+        \nObat oles gentamicin adalah obat luar. Karena itu, jangan sampai terkena mata, hidung, atau mulut.
+        \n
+        \nHarap berhati-hati bagi lansia, pengguna lensa kontak, serta penderita gangguan ginjal, gangguan hati,
+        myastenia gravis, asma, alergi terhadap sulfit, gangguan otot saraf, dehidrasi, serta memiliki kadar kalsium, kalium,
+        atau magnesium yang rendah dalam darah.
+        \n
+        \nSelama menggunakan gentamicin, beri tahu dokter sebelum menjalani penanganan medis apa pun.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+    <string name="glimepiride1">
+        Glimepiride adalah obat yang digunakan untuk mengendalikan kadar gula darah tinggi pada penderita diabetes tipe 2. Obat
+        ini bekerja dengan cara mendorong pankreas untuk memproduksi insulin dalam tubuh dan membantu tubuh menggunakan insulin
+        secara lebih efisien. Glimepiride tidak dapat digunakan untuk mengobati penderita diabetes tipe 1, karena obat ini hanya
+        dapat membantu menurunkan gula darah pada penderita yang mampu memproduksi insulin secara alami dalam tubuhnya.
+        \n
+        \nDengan mengendalikan kadar gula darah, glimepiride bermanfaat untuk membantu mencegah gagal ginjal, retinopati diabetik,
+        serangan jantung, atau stroke, yang merupakan komplikasi dari diabetes.
+    </string>
+
+    <string name="glimepiride2">
+        Konsumsi glimepiride sesuai anjuran dokter dan jangan lupa untuk membaca keterangan pada label kemasan. Glimepiride
+        biasanya dikonsumsi sekali sehari, sebelum atau sesudah makan. Gunakan air putih untuk menelan tablet.
+        \n
+        \nUsahakan untuk mengonsumsi glimepiride secara rutin pada jam yang sama setiap harinya. Hal ini dilakukan untuk
+        memaksimalkan efek obat.
+        \n
+        \nBagi pasien yang lupa mengonsumsi glimepiride, disarankan untuk segera melakukannya begitu ingat, jika jeda
+        dengan jadwal konsumsi berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nGlimepiride membantu mengendalikan gula darah dalam tubuh, namun tidak menyembuhkan diabetes. Jangan berhenti
+        mengonsumsi obat, meskipun telah merasa lebih baik. Konsultasikan terlebih dahulu kepada dokter sebelum berhenti
+        mengonsumsi obat ini.
+        \n
+        \nPeriksa kadar gula darah secara rutin, sehingga dokter dapat mengetahui perkembangan kesehatan Anda. Dokter
+        mungkin akan menurunkan atau menaikkan dosis, sesuai dengan kondisi Anda.
+        \n
+        \nSelama mengonsumsi glimepiride, dokter mungkin juga akan menganjurkan untuk menjalankan diet sehat, berhenti
+        merokok, dan berolahraga secara rutin. Hal ini akan membantu proses pengobatan.
+        \n
+        \nSimpanlah glimepiride di tempat yang kering, tertutup, serta jauh dari paparan sinar matahari dan jangkauan
+        anak-anak.
+    </string>
+
+    <string name="glimepiride3">
+        Untuk diabetes melitus tipe 2 :
+        \nDewasa : Dosis awal 1-2 mg per hari. Dosis dapat ditingkatkan dengan penambahan 1-2 mg setiap 1-2 minggu.
+        \nDosis lanjutan: 4 mg per hari.
+        \nDosis maksimum: 6 mg per hari.
+        \n
+        \nLansia Dosis awal: 1 mg, sekali sehari.
+    </string>
+
+    <string name="glimepiride4">
+        Efek samping glimepiride yang mungkin muncul umumnya berupa :
+        \n
+        \n\t1.\t Pusing dan sakit kepala
+        \n\t2.\t Mual
+        \n\t3.\t Muntah
+        \n\t4.\t Ruam
+        \n
+        \nSelain itu, ada efek samping lain yang mungkin terjadi dan bersifat serius, antara lain :
+        \n
+        \n\t1.\t Anemia
+        \n\t2.\t Trombositopenia
+        \n\t3.\t Penurunan fungsi hati
+        \n\t4.\t Kadar natrium dalam darah rendah (hiponatremia)
+        \n\t5.\t Reaksi alergi yang bersifat serius
+        \n
+        \nKadar gula darah rendah atau hipoglikemia juga dapat terjadi selama pasien mengosumsi glimepiride.
+        Gejala kadar gula darah rendah, di antaranya adalah :
+        \n
+        \n\t1.\t Jantung berdebar
+        \n\t2.\t Area di sekitar mulut mati rasa
+        \n\t3.\t Jari mengalami kesemutan
+        \n\t4.\t Otot melemah
+        \n\t5.\t Penglihatan kabur
+        \n\t6.\t Tremor
+        \n\t7.\t Disorientasi atau bingung
+        \n\t8.\t Hilang kesadaran
+        \n
+        \nSegera hubungi dokter jika Anda mengalami gejala atau merasakan efek samping yang bersifat serius.
+    </string>
+
+    <string name="glimepiride5">
+        Hindari mengonsumsi glimepiride jika memiliki alergi terhadap obat ini atau antibiotik golongan sulfonamida.
+        \nBerhati-hatilah dan konsultasikan terlebih dahulu kepada dokter jika sedang atau berencana mengonsumsi
+        obat-obatan lain, termasuk suplemen dan produk herba.
+        \n
+        \nBerhati-hatilah dan konsultasikan terlebih dahulu kepada dokter jika menderita atau memiliki riwayat kondisi
+        berikut ini :
+        \n
+        \n\t1.\t Penyakit jantung.
+        \n\t2.\t Penyakit ginjal.
+        \n\t3.\t Penyakit liver.
+        \n
+        \nBeri tahu dokter bahwa sedang mengonsumsi glimepiride jika akan menjalani tindakan operasi, termasuk operasi gigi.
+        \n
+        \nHindari konsumsi alkohol ketika sedang menjalani pengobatan dengan glimepiride. Alkohol dapat menyebabkan efek
+        samping glimepiride semakin memburuk.
+        \n
+        \nHindari berada terlalu lama berada di bawah paparan sinar matahari karena glimepiride dapat menyebabkan kulit
+        sensitif terhadap sinar matahari. Gunakan pakaian yang menutup seluruh lengan, kacamata, dan tabir surya.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah mengonsumsi glimepiride, segera temui dokter.
+    </string>
+
+    <string name="gliserol1">
+        Gliserol atau gliserin adalah obat yang digunakan untuk mengatasi konstipasi atau kesulitan buang air besar secara
+        sementara. Obat ini diberikan melalui anus dan bekerja dengan menarik air ke dalam usus besar, sehingga menimbulkan
+        rangsangan buang air besar dalam waktu 15-60 menit
+    </string>
+
+    <string name="gliserol2">
+        Gunakan gliserol sesuai anjuran dokter atau informasi yang tertera pada kemasan.
+        \n
+        \nPenggunaan gliserol suppositoria hanya digunakan untuk dimasukan melalui anus atau dubur.
+        \n
+        \nUntuk cairan enema, pencet botol hingga seluruh cairan masuk melalui dubur. Gliserol supositoria atau cairan
+        enema dapat memicu pengguna untuk buang air besar dalam durasi 15-60 menit.
+    </string>
+
+    <string name="gliserol3">
+        Untuk Konstipasi :
+        \n
+        \nDewasa: 2-3 gram satu kali, bila diperlukan.Anak-anak 2-5 tahun: 1-1,2 gram, bila diperlukan.
+        \nAnak-anak 6 tahun ke atas: 2-2,1 gram, bila diperlukan.
+    </string>
+
+    <string name="gliserol4">
+        Berikut ini adalah beberapa efek samping yang mungkin saja bisa terjadi setelah menggunakan gliserol. Di antaranya
+        adalah:
+        \n
+        \n\t1.\t Perut mules.
+        \n\t2.\t Kram perut.
+        \n\t3.\t Ketegangan otot di sekitar dubur.
+        \n\t4.\t Iritasi kulit sekitar dubur.
+        \n
+        \nSegera hubungi dokter bila mengalami keluhan di bawah ini, setelah menggunakan obat gliserol :
+        \n
+        \n\t1.\t Nyeri perut yang menetap.
+        \n\t2.\t Buang air besar berdarah
+        \n\t3.\t perdarahan dari dubur.
+        \n\t4.\t Diare terus menerus.
+    </string>
+
+    <string name="gliserol5">
+        Jangan digunakan bila penderita mengalami obstruksi usus dan perdarahan dari dubur (anus).
+        \n
+        \nHarap berhati-hati dalam menggunakan obat ini bila penderita mengalami keluhan nyeri perut, mual, atau muntah.
+        \n
+        \nKonsultasikan dahulu dengan dokter sebelum menggunakan gliserol bila terjadi konstipasi yang sudah berlangsung selama 2 minggu.
+        \n
+        \nObat ini sebaiknya tidak digunakan lebih dari 1 minggu, segera konsultasikan kepada dokter bila keluhan tidak membaik.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah menggunakan gliserol, segera temui dokter.
+    </string>
+
+    <string name="ibuprofen1">
+        Ibuprofen termasuk jenis obat antiinflamasi nonsteroid. Obat ini dapat meredakan rasa sakit ringan hingga menengah,
+        serta mengurangi peradangan. Contoh gejala yang dapat ditangani ibuprofen adalah nyeri otot dan sendi, migrain, nyeri
+        menstruasi, sakit gigi, serta nyeri setelah operasi. Di samping itu, ibuprofen juga dipakai untuk mengurangi demam dan
+        pegal-pegal akibat flu.
+        \n
+        \nIbuprofen bekerja dengan cara menghambat enzim yang berperan dalam produksi prostaglandin. Prostaglandin merupakan
+        senyawa yang dilepaskan tubuh yang menyebabkan peradangan dan rasa sakit.
+        \n
+        \nPerlu diperhatikan bahwa obat ini hanya dapat mengurangi gejala, tetapi tidak menyembuhkan penyakit penyebabnya.
+    </string>
+
+    <string name="ibuprofen2">
+        Ibuprofen dalam bentuk oral sebaiknya dikonsumsi sesudah makan atau dengan segelas susu untuk mengurangi efek sampingnya.
+        \n
+        \nPastikan untuk mengurangi rokok serta konsumsi minuman keras karena dapat meningkatkan risiko efek samping perdarahan
+        pada lambung.
+        \n
+        \nJika pengguna lupa menggunakan ibuprofen, disarankan untuk segera melakukannya jika jadwal penggunaan berikutnya
+        tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+    </string>
+
+    <string name="ibuprofen3">
+        Dosis penggunaan Ibuprifen tergantung pada tingkat keparahan rasa sakit yang diderita pasien. Jangan melebihi dosis
+        maksimum Ibuprofen yaitu 2400 mg per 24 jam.
+    </string>
+
+    <string name="ibuprofen4">
+        Beberapa efek samping yang dapat terjadi saat mengonsumsi Ibuprofen antara lain :
+        \n\t1.\tMual dan muntah
+        \n\t2.\tSakit ulu hati
+        \n\t3.\tPerut kembung
+        \n\t4.\tGangguan pencernaan ringan
+        \n\t5.\tTukak lambung
+        \n\t6.\tMuntah darah
+    </string>
+
+    <string name="ibuprofen5">
+        Konsultasikan dosis untuk anak di bawah 12 tahun dengan dokter.
+        \n
+        \nHarap berhati-hati dengan penggunaan ibuprofen jika berusia di atas 65 tahun.
+        \n
+        \nKonsumsilah ibuprofen dengan makanan atau segelas susu untuk menghindari efek samping.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera hubungi dokter.
+        \n
+        \nIbuprofen tidak boleh digunakan pada:
+        \nPasien yang menderita hipersensitivitas, alergi, asma, urtikaria yang disebabkan oleh aspirin atau obat
+        antiinflamasi nonsteroid
+        \n
+        \nPasien yang sedang menjalani pengobatan pasca operasi pencangkokan pembuluh arteri koroner.
+        \n
+        \nPasien yang memiliki riwayat perdarahan saluran cerna atau ulkus peptikum.
+        \n
+        \nBayi baru lahir (neonatal) yang memiliki kelainan jantung bawaan, dicurigai menderita enterokolitis yang
+        mengalami pembusukan, atau gangguan fungsi ginjal.
+        \n
+        \nIbu hamil pada trimester ketiga dan ibu menyusui.
+    </string>
+
+    <string name="ketoconazole1">
+        Ketoconazole adalah obat yang digunakan untuk mengatasi infeksi jamur pada kulit. Misalnya kurap pada kaki,
+        badan, atau lipat paha, panu, dermatitis seboroik, serta ketombe. Obat antijamur ini mampu membunuh jamur penyebab
+        infeksi, sekaligus mencegahnya tumbuh kembali
+    </string>
+
+    <string name="ketoconazole2">
+        Gunakanlah ketoconazole sesuai anjuran dokter dan jangan lupa untuk membaca keterangan pada kemasan. Jangan berhenti
+        menggunakan obat ini sebelum jangka waktu yang ditentukan oleh dokter. Walau infeksi terlihat sudah sembuh, jamur
+        tetap berpotensi tumbuh kembali.
+        \n
+        \nSebelum mengoleskan krim ketoconazole, bersihkan dan keringkan bagian yang terinfeksi terlebih dulu. Jangan lupa
+        mencuci tangan setelah mengoleskan obat ini untuk menghindari penyebaran infeksi ke bagian tubuh yang lain atau ke
+        orang lain.
+        \n
+        \nUntuk sampo ketoconazole, ratakan busa sampo hingga menutupi seluruh rambut dan kulit kepala. Setelah itu, diamkan
+        selama 5 menit sebelum dibilas hingga bersih. Jika mengenai mata, segera basuh dengan air.
+        \n
+        \nPastikan ada jarak waktu yang cukup antara satu dosis dengan dosis berikutnya selama mengonsumsi ketocoazole oral.
+        Usahakan untuk meminumnya pada jam yang sama setiap harinya guna memaksimalkan efek obat.
+        \n
+        \nBagi pasien yang lupa mengonsumsi ketocoazole oral, disarankan segera melakukannya jika jeda dengan jadwal konsumsi
+        berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+    </string>
+
+    <string name="ketoconazole3">
+        Takaran ketoconazole tergantung pada jenis infeksi, tingkat keparahannya, serta bentuk obat yang diberikan.
+        \n
+        \nKrim dan sampo ketoconazole yang disarankan adalah dengan kandungan 2%. Krim ketoconazole umumnya dioleskan
+        sebanyak 1-2 kali sehari pada bagian yang terinfeksi dan sampo ketoconazole dapat digunakan sebanyak 1 kali sehari
+        selama maksimal 5 hari.
+        \n
+        \nSedangkan ketoconazole dalam bentuk tablet, diminum dengan dosis 200 mg per hari. Dosis ini bisa ditingkatkan oleh
+        dokter hingga 400 mg apabila dibutuhkan. Khusus untuk anak-anak, takaran ketoconazole oral akan disesuaikan dengan
+        berat badan pasien.</string>
+
+    <string name="ketoconazole4">
+        Sejumlah efek samping yang mungkin terjadi saat menggunakan antijamur ini meliputi:
+        \n\t1.\Mual.
+        \n\t2.\Diare.
+        \n\t3.\Sakit kepala.
+        \n\t4.\Sakit perut.
+        \n\t5.\Biduran.
+        \n\t6.\Trombositopenia.
+        \n\t7.\Demam.
+        \n\t8.\Mengigil.
+        \n\t9.\Ruam atau iritasi kulit.
+        \n\t10.\Sensitif terhadap cahaya.
+        \n\t11.\Sensasi terbakar atau perih pada kulit.
+    </string>
+
+    <string name="ketoconazole5">
+        Bagi wanita yang merencanakan kehamilan dan sedang hamil, berkonsultasilah dengan dokter terlebih dahulu sebelum
+        menggunakan ketoconazole. Sedangkan ibu menyusui dilarang menggunakan obat ini.
+        \n
+        \nPenting bagi pasien untuk menggunakan obat ini sesuai jangka waktu yang disarankan oleh dokter guna memastikan
+        jamur penyebab infeksi musnah seluruhnya, serta mencegahnya tumbuh kembali.
+        \n
+        \nKetoconazole oles hanya boleh digunakan sebagai obat luar. Jangan mengoleskannya pada kulit yang luka, tergores,
+        atau terbakar.
+        \n
+        \nHarap berhati-hati jika menderita detak jantung yang tidak teratur (aritmia), alergi terhadap obat antijamur lain,
+        gangguan hati, kadar tertosteron yang rendah, gangguan kelenjar adrenal, serta asam lambung yang rendah.
+        \n
+        \nHindari konsumsi minuman keras selama menggunakan ketoconazole oral karena dapat meningkatkan risiko gangguan hati.
+        \n
+        \nSelama menggunakan ketoconazole, beri tahu dokter sebelum menjalani pengobatan medis apa pun.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="ketorolac1">
+        Ketorolac adalah  salah satu jenis obat antiinflamasi nonsteroid (NSAIDs) yang biasanya dipakai untuk meredakan peradangan
+        dan rasa nyeri setelah operasi mata. Selain itu, obat ini juga dapat digunakan untuk mengatasi gatal-gatal pada mata akibat
+        konjungtivitis alergi.
+    </string>
+
+    <string name="ketorolac2">
+        Ikuti anjuran dokter dan baca informasi yang tertera pada kemasan ketorolac sebelum mulai menggunakannya.
+        \n
+        \nSaat menggunakan ketorolac tetes, jaga ujung botol agar tidak tersentuh mata atau tangan. Hal ini untuk menghindari
+        terjadinya kontaminasi terhadap sisa obat di dalam botol.
+        \n
+        \nPastikan ada jarak waktu yang cukup antara satu dosis dengan dosis berikutnya. Usahakan untuk menggunakan ketorolac
+        secara teratur untuk memaksimalisasi efeknya. Jika dokter menyertakan obat tetes lainnya, berikan jeda waktu 5 menit
+        antara penggunaan ketorolac dengan obat tetes lainnya tersebut.
+        \n
+        \nSaat pengguna menggunakan ketorolac dalam bentuk obat tetes mata, pastikan pengguna melepaskan lensa kontak dan
+        tidak mengedip saat pemakaian. Untuk hasil yang optimal, pejamkan mata Anda selama 1-2 menit.
+        \n
+        \nKetorolac dapat menyebabkan kantuk atau pusing. Disarankan untuk tidak mengemudikan kendaraan atau mengoperasikan alat
+        berat saat pengobatan.
+        \n
+        \nEfek ketorolac dapat membuat pengguna lebih sensitif terhadap cahaya. Disarankan untuk tidak beraktivitas dibawah terik
+        matahari saat pengobatan. Gunakan pakaian yang tertutup dan tabir surya untuk perlindungan jika diperlukan.
+    </string>
+
+    <string name="ketorolac3">
+        Untuk Konjungtivitis Alergi, Obat Tetes	: Dewasa: 1 tetes (0.5%) di bagian mata yang terinfeksi, 4 kali sehari.
+        \n
+        \nUntuk Peradangan Mata, Obat	Tetes :	Dewasa: 1 tetes (0.5%) di bagian mata yang terinfeksi, 4 kali sehari selama 24
+        jam setelah operasi katarak. Dosis dapat dilanjutkan selama 2 minggu.
+        \n
+        \nUntuk Nyeri pasca operasi, Obat Tablet	Dewasa: 20mg sebagai dosis awal, dilanjutkan dengan 10mg setiap 4-6 jam. Dosis
+        maksimum per hari adalah 40 mg, dengan jangka waktu maksimal 5 hari.
+        \nLansia: 10mg sebagai dosis awal, dilanjutkan dengan setiap 4-6 jam. Dosis maksimum per hari adalah 40 mg.
+    </string>
+
+    <string name="ketorolac4">
+        Sama seperti obat-obat lain, ketorolac juga berpotensi menyebabkan efek samping. Efek samping yang umum terjadi setelah
+        menggunakan obat ini adalah rasa pedih atau panas di mata yang bersifat sementara. Sedangkan efek samping yang lebih
+        jarang terjadi adalah mata terasa gatal, mengeluarkan kotoran, kemerahan atau bengkak pada kelopak mata.
+        \n
+        \nDalam kasus tertentu, kondisi seperti mata kering, pusing, mual, muntah, diare  dapat terjadi. Jika efek samping
+        dirasakan berkelanjutan atau terdapat reaksi alergi, segera temui dokter.
+    </string>
+
+    <string name="ketorolac5">
+        Harap berhati-hati bagi penderita infeksi mata, rheumatoid arthritis, asma atau gangguan pernapasan lainnya,
+        penyakit jantung, hipertensi, gangguan ginjal, stroke, pembengkakan pada kaki atau tangan, dan diabetes.
+        \n
+        \nHarap berhati-hati jika Anda alergi terhadap aspirin dan obat-obatan antiinflamasi nonsteroid lainnya, seperti
+        ibuprofen
+        atau diclofenac.
+        \n
+        \nHarap waspada bagi Anda yang mudah mengalami perdarahan atau kelainan darah, seperti gangguan pembekuan darah
+        atau anemia.
+        \n
+        \nHati-hati jika Anda menggunakan lensa kontak saat menjalani pengobatan dengan ketorolac. Sebaiknya jangan
+        menggunakan lensa kontak hingga kondisi mata benar-benar sembuh.
+        \n
+        \nJika pandangan menjadi buram setelah menggunakan ketorolac, jangan mengemudi sebelum Anda bisa melihat dengan
+        jelas kembali.
+        \n
+        \nBeri tahu dokter jika Anda akan melakukan operasi atau tindakan medis tertentu saat dalam pengobatan ini agar
+        dosis dapat disesuaikan.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="levofloxacin1">
+        Levofloxacin adalah obat golongan antibiotik quinolone yang dapat digunakan untuk mengobati infeksi bakteri, seperti
+        infeksi saluran kemih, pneumonia, sinusitis, infeksi kulit, jaringan lunak, dan infeksi prostat. Obat ini juga dapat
+        digunakan untuk mengobati anthrax, serta mencegah penyakit pes (termasuk bentuk pneumonic dan septicemic). Levofloxacin
+        bekerja dengan cara membunuh bakteri dan mencegahnya tumbuh kembali.
+        \n
+        \nLevofloxacin biasanya digunakan jika antibiotik lainnya tidak dapat mengatasi infeksi yang ada atau tidak dapat
+        diresepkan oleh dokter karena alasan tertentu. Karena levofloxacin merupakan antibiotik, maka obat ini tidak bisa digunakan
+        untuk mengobati infeksi yang disebabkan oleh virus, seperti flu, pilek, atau infeksi virus lainnya.
+    </string>
+
+    <string name="levofloxacin2">
+        Ikuti anjuran dokter dan baca informasi yang tertera pada kemasan levofloxacin sebelum mulai menggunakannya. Obat
+        ini dapat digunakan sebelum atau sesudah makan.
+        \n
+        \nDisarankan untuk mengonsumsi levofloxacin oral pada pagi hari jika Anda diresepkan dosis sekali minum. Jika Anda
+        diresepkan dosis levofloxacin lebih dari satu kali sehari, pastikan ada jarak waktu yang cukup, misalnya 12 jam
+        antara setiap dosis atau sesuai saran dokter. Usahakan untuk mengonsumsi levofloxacin pada jam yang sama setiap harinya
+        untuk memaksimalkan efek.
+        \n
+        \nJika kesulitan untuk menelan tablet levofloxacin, Anda bisa membelahnya menjadi dua. Namun jangan mengonsumsi obat ini
+        dengan cara dikunyah atau dihancurkan.
+        \n
+        \nBagi pasien yang lupa menggunakan levofloxacin, disarankan untuk segera melakukannya jika jeda dengan jadwal
+        penggunaan berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nPastikan Anda menghabiskan seluruh dosis yang diresepkan oleh dokter. Hal ini penting untuk mencegah kembalinya
+        infeksi yang berpotensi lebih buruk. Jika gejala tidak membaik setelah menghabiskan obat, segera temui dokter.
+        \n
+        \nKulit mungkin akan  terasa lebih sensitif saat terpapar sinar matahari setelah menggunakan levofloxacin. Gunakan
+        tabir surya untuk melindungi kulit Anda jika ingin beraktivitas di luar rumah, khususnya pada jam 10 pagi hingga 3 sore.
+        \n
+        \nJangan mengonsumsi obat-obatan gangguan pencernaan atau multivitamin yang mengandung seng (zinc) atau besi pada
+        dua jam sebelum atau sesudah menggunakan levofloxacin karena dapat mengganggu penyerapan dan kinerja obat.
+    </string>
+
+    <string name="levofloxacin3">
+        Dosis levofloxacin oral bagi orang dewasa umumnya adalah 500 mg per hari. Dosis biasanya akan disesuaikan dengan tingkt
+        keparahan penyakit dan kondisi kesehatan pasien. Untuk jenis infeksi tertentu, seperti infeksi kandung kemih, dokter
+        mungkin akan memberikan dosis sebesar 250 mg per hari. Levofloxacin diberikan selama 3-28 hari, tergantung pada jenis
+        dan tingkat keparahan infeksi. Terkadang pengobatan harus dilakukan hingga 60 hari jika diperlukan.
+        \n
+        \nBagi yang menggunakan levofloxacin dalam bentuk obat tetes mata, dosis yang biasa disarankan adalah 1 atau 2 tetes
+        setiap 30 hingga 2 jam sekali selama 3 hari, dan akan disesuaikan setelah kondisi mulai pulih.
+        \n
+        \nDosis levofloxacin suntik akan disesuaikan dengan kondisi Anda, dan biasanya diberikan saat menjalani rawat inap di
+        rumah sakit.
+        \n
+        \nDosis bagi anak-anak mungkin akan berbeda dari orang dewasa. Disarankan untuk menanyakan hal tersebut pada dokter
+        sebelum memberikan obat ini pada mereka.
+    </string>
+
+    <string name="levofloxacin4">
+        Sama seperti obat-obat lain, levofloxacin juga berpotensi menyebabkan efek samping. Efek samping yang umum terjadi
+        setelah menggunakan obat ini adalah:
+        \n
+        \n\t1.\t Gangguan tidur.
+        \n\t2.\t Pusing.
+        \n\t3.\t Sakit kepala.
+        \n\t4.\t Diare.
+        \n\t5.\t Mual.
+        \n\t6.\t Mempengaruhi hasil uji lab organ hati.
+        \n
+        \nSegera temui dokter jika Anda mengalami efek samping yang jarang, seperti:
+        \n
+        \n\t1.\t Reaksi alergi parah.
+        \n\t2.\t Nyeri atau pembengkakan sendi.
+        \n\t3.\t Kesulitan melihat.
+        \n\t4.\t Berhalusinasi.
+    </string>
+
+    <string name="levofloxacin5">
+        Harap berhati-hati bagi penderita diabetes, gangguan ginjal, gangguan mental, epilepsi atau kondisi lainnya yang
+        menyebabkan kejang, gangguan jantung, myasthenia gravis atau kondisi yang menyebabkan otot menjadi lemas, masalah
+        pada tendon atau tendonitis dan defisiensi glucose 6-phosphate dehydrogenase.
+        \n
+        \nBeri tahu dokter jika Anda sedang dalam pengobatan lain, khususnya obat steroid.
+        \n
+        \nLevofloxacin dapat mengganggu hingga menghentikan efek vaksinasi tifoid. Tanyakan pada dokter sebelum melakukan
+        vaksinasi.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="metformin1">
+        Metformin adalah obat antidiabetes yang dapat menurunkan kadar gula darah pada  penderita
+        diabetes tipe 2. Obat ini dapat dikonsumsi secara tunggal, dikombinasikan dengan obat antidiabetes lain, atau diberikan
+        bersama insulin. Guna mendapat hasil maksimal, dosis metformin harus diseimbangkan dengan jumlah atau jenis makanan
+        yang dikonsumsi, serta intensitas olahraga dan aktivitas yang dilakukan.
+        \n
+        \nDalam menurunkan kadar gula darah yang tinggi, metformin bekerja dengan cara menghambat proses glukoneogenesis
+        dan glikogenolisis, memperlambat penyerapan glukosa pada usus, serta meningkatkan sensitifitas insulin dalam tubuh.
+        Kendati demikian, obat ini tidak dapat diberikan pada penderita diabetes tipe 1 yang masih tergantung pada suntikan
+        insulin sepenuhnya.
+    </string>
+
+    <string name="metformin2">
+        Pastikan Anda mengonsumsi metformin sesuai dengan anjuran dokter. Baca informasi yang tertera pada kemasannya
+        sebelum mulai mengonsumsi obat ini. Jika ragu, hubungi dokter.
+        \n
+        \nBeri jarak waktu yang cukup antara satu dosis dengan dosis berikutnya. Usahakan mengonsumsi metformin pada
+        jam yang sama setiap harinya untuk mendapatkan hasil yang optimal. Obat ini biasanya dianjurkan untuk dikonsumsi
+        saat makan atau segera sesudah makan
+        \n
+        \nMetformin dapat menyebabkan perubahan pada siklus menstruasi yang membuat ovulasi meningkat sehingga mempertinggi
+        kemungkinan untuk hamil.
+        \n
+        \nPemeriksaan secara rutin sebaiknya dilakukan selama mengonsumsi obat ini untuk memantau kadar gula darah serta
+        kesehatan kaki dan mata. Kenali juga gejala-gejala hipoglikemia (kadar gula darah yang terlalu rendah), seperti
+        pandangan menjadi kabur, kulit kering, dan sering mengeluarkan urine. Selain itu, kenali juga gejala-gejala
+        hiperglikemia (kadar gula darah yang terlalu tinggi), seperti kulit pucat, gelisah, detak jantung cepat, pusing, dan mual.
+        \n
+        \nBagi pasien yang lupa mengonsumsi metformin, disarankan segera melakukannya jika jeda dengan jadwal konsumsi berikutnya
+        tidak terlalu dekat. Jika sudah dekat, jangan menggandakan dosis metformin.
+    </string>
+
+    <string name="metformin3">
+        Dosis penggunaan metformin berbeda-beda untuk tiap pasien. Dokter akan menyesuaikan takaran penggunaan metformin
+        sesuai tingkat keparahan diabetes, riwayat kesehatan, dan reaksi tubuh pasien terhadap obat.
+        \n
+        \nDosis awal untuk orang dewasa adalah 500-850 mg yang diminum 1-2 kali sehari. Dosis ini dapat ditingkatkan
+        hingga 2-3 gram/hari dengan interval waktu1 minggu dari dosis awal.
+        \n
+        \nDosis awal untuk anak-anak di atas 10 tahun adalah  500 mg yang diminum 1-2 kali sehari. Dosis dapat ditingkatkan
+        secara bertahap hingga 2 gram setiap hari yang terbagi dalam 2-3 dosis pemakaian. Interval waktu antara dosis awal dengan dosis lanjutan minimal adalah 1 minggu.
+    </string>
+
+    <string name="metformin4">
+        Beberapa efek samping yang umumnya terjadi saat mengonsumsi metformin adalah:
+        \n
+        \n\t1.\t Mual dan muntah.
+        \n\t2.\t Penurunan nafsu makan
+        \n\t3.\t Rasa logam dalam mulut
+        \n\t4.\t Sakit perut
+        \n\t5.\t Batuk dan suara serak.
+        \n\t6.\t Diare.
+        \n\t7.\t Nyeri otot dan kram
+        \n\t8.\t Lemas dan mengantuk
+    </string>
+
+    <string name="metformin5">
+        Beri tahu dokter jika memiliki alergi terhadap obat ini, obat lain, atau bahan tertentu.
+        \n
+        \nKonsultasikan pada dokter terlebih dahulu jika memiliki riwayat gangguan pernapasan (misalnya asma), kekurangan darah,
+        serta gangguan ginjal dan hati.
+        \n
+        \nBicarakan pada dokter jika akan melakukan prosedur medis tertentu, terutama pemeriksaan radiologi dengan menggunakan
+        zat pewarna iodin.
+        \n
+        \nInformasikan pada dokter jika sedang menggunakan obat lain, termasuk obat bebas, suplemen, atau herbal.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+    <string name="mikonazol1">
+        Miconazole adalah obat luar untuk mengatasi infeksi jamur pada kulit seperti kurap (tinea), panu, dan candidiasis
+        pada kulit. Selain kulit, miconazole juga dapat digunakan untuk infeksi jamur pada mulut (candidiasis oral), namun
+        hanya sediaan oral gel yang boleh digunakan pada mulut. Sebagai antijamur, miconazole bekerja dengan merusak struktur
+        sel jamur, sehingga menghentikan pertumbuhan jamur.
+    </string>
+
+    <string name="mikonazol2">
+        Ikuti anjuran dokter dan baca informasi yang tertera pada kemasan miconazole sebelum menggunakannya.
+        \n
+        \nGunakanlah miconazole sesuai dengan jangka waktu yang dianjurkan oleh dokter. Biasanya obat ini harus tetap
+        digunakan selama beberapa hari setelah gejala mereda. Hal ini dimaksudkan untuk mencegah infeksi datang kembali.
+        \n
+        \nCuci dan keringkan daerah kulit yang mengalami infeksi sebelum mengoleskan miconazole dan jangan lupa untuk mencuci
+        tangan setelahnya. Hal ini untuk mencegah infeksi menyebar ke bagian tubuh yang lain.
+        \n
+        \nJika Anda menggunakan oral gel untuk mengobati infeksi jamur di mulut, sebaiknya jangan makan atau minum terlebih
+        dahulu setengah jam setelah menggunakannya. Hal ini dimaksudkan agar obat memberikan pengaruh maksimal karena tidak
+        tersapu oleh makanan atau minuman yang dikonsumsi.
+        \n
+        \nSimpan miconazole di suhu ruangan, tidak perlu di dalam kulkas.
+    </string>
+
+    <string name="mikonazol3">
+        Untuk kondisi Candidiasis mulut, Oral gel yang mengandung 20 mg/g miconazole : Dewasa dan anak-anak 2 tahun ke atas: 2,5 ml
+        empat kali sehari.
+        Untuk kondisi Infeksi jamur pada kulit (Tinea pedis, tinea cruris, tinea corporis, panu, candidiasis)m Krim, salep, atau
+        bedak yang mengandung 2% miconazole : Dewasa dan anak-anak 2 tahun ke atas: Oleskan 2 kali sehari selama 2-6 minggu.
+    </string>
+
+    <string name="mikonazol4">
+        Beberapa efek samping yang mungkin saja bisa terjadi setelah menggunakan miconazole krim, salep, atau bedak adalah:
+        \n
+        \n\t1.\t Iritasi kulit.
+        \n\t2.\t Rasa terbakar pada kulit.
+        \n\t3.\t Dermatitis kontak.
+        \n
+        \nUntuk penggunaan miconazole oral gel, beberapa kemungkinan efek samping yang bisa terjadi adalah:
+        \n
+        \n\t1.\t Sakit kepala.
+        \n\t2.\t Perubahan rasa di lidah.
+        \n\t3.\t Mulut kering.
+        \n\t4.\t Mual.
+        \n\t5.\t Diare.
+        \n\t6.\t Nyeri ulu hati.
+    </string>
+
+    <string name="mikonazol5">
+        Hindari penggunaan miconazole untuk anak-anak di bawah usia 2 tahun, karena manfaat dan keamanannya belum diketahui
+        sepenuhya.
+        \n
+        \nHarap berhati-hati bagi pasien yang memiliki riwayat alergi terhadap antijamur lainnya, terutama golongan
+        azole, seperti clotrimazole dan itraconazole.
+    </string>
+
+    <string name="nifedipin1">
+        Nifedipine adalah obat yang digunakan untuk mengobati hipertensi (tekanan darah tinggi) dan mencegah angina.
+        Selain untuk kedua kondisi tersebut, obat ini juga dapat digunakan untuk mengobati fenomena Raynaud, yaitu suatu
+        kondisi yang disebabkan oleh sirkulasi yang buruk pada tangan dan kaki.
+        \n
+        \nNifedipine bekerja dengan menghambat jumlah kalsium yang menuju sel di jantung dan pembuluh darah. Kondisi ini akan
+        melebarkan pembuluh darah, sehingga meningkatkan suplai darah dan oksigen ke sel otot, termasuk otot jantung,
+        sekaligus meringankan beban kerja jantung.
+    </string>
+
+    <string name="nifedipin2">
+        Ikuti anjuran dokter dan baca petunjuk yang tertera pada kemasan sebelum mengonsumsi nifedipine.
+        \n
+        \nObat ini bisa dikonsumsi sebelum atau pada saat makan. Telan tablet nifedipine dengan utuh
+        tanpa dihancurkan atau dikunyah terlebih dahulu.
+        \n
+        \nDosis nifedipine tergantung pada kondisi kesehatan dan respon pasien. Dokter mungkin akan
+        meningkatkan dosis secara bertahap.
+        \n
+        \nKonsumsi obat ini secara teratur di waktu yang sama setiap harinya. Bagi pasien yang lupa mengonsumsi
+        nifedipine, dianjurkan untuk segera melakukannya begitu teringat, apabila jeda dengan jadwal konsumsi berikutnya
+        tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+    </string>
+
+    <string name="nifedipin3">
+        Untuk kondisi hipertensi, Bentuk immediate release: Dosis awal 5 mg, 3 kali per hari.Dosis lanjutan 10-20 mg,
+        3 kali per hari.Bentuk extended release: 10-40 mg, 2 kali sehari atau 30-90 mg, satu kali per hari.
+        \n
+        \nUntuk kondisi angina pectoris : Dosis awal 5 mg, 3 kali per hari.Dosis lanjutan 10-20 mg, 3 kali per hari.
+        \n
+        \nUntuk kondisi Sindrom Raynaud : 5-20 mg, 3 kali per hari.
+    </string>
+
+    <string name="nifedipin4">
+        Sejumlah efek samping yang mungkin saja dapat timbul setelah mengonsumsi nifedipine adalah:
+        \n
+        \n\t1.\t Tungkai bengkak.
+        \n\t2.\t Sakit kepala.
+        \n\t3.\t Pusing.
+        \n\t4.\t Mual.
+        \n\t5.\t Perut mulas.
+        \n\t6.\t Batuk.
+        \n\t7.\t Sesak napas.
+        \n\t8.\t Nyeri dada.
+        \n\t9.\t Jantung berdebar.
+        \n\t10.\t Kram otot.
+        \n\t11.\t Kejang.
+        \n\t12.\t Biduran.
+        \n\t13.\t Gelisah.
+        \n\t14.\t Gatal.
+    </string>
+
+    <string name="nifedipin5">
+        Pasien dengan gangguan pengolahan gula dalam tubuh, seperti intoleransi laktosa, tidak dianjurkan mengonsumsi nifedipine.
+        \n
+        \nHindari penggunaan nifedipine pada pasien gagal jantung.
+        \n
+        \nGunakan dengan hati-hati pada pasien kardiomiopati.
+        \n
+        \nHati-hati penggunaan pada pasien lanjut usia, karena bisa menyebabkan hipotensi.
+        \n
+        \nBeri tahu dokter obat-obatan rutin yang dikonsumsi termasuk suplemen dan herba.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="nikotinamid1">
+        Nicotinamide atau dikenal juga dengan nama niacinamide, adalah salah satu bentuk dari Vitamin B3 yang biasa ditemukan
+        pada daging, ikan, telur, sayuran hijau, kacang polong, ragi, susu, atau sereal gandum. Biasanya obat ini digunakan
+        untuk mengobati dan mencegah defisiensi asam nikotinat dan juga mengobati peradangan jerawat
+        \n
+        \nNicotinamide juga digunakan sebagai salah satu zat penyusun obat untuk mengatasi diabetes dan kadar kolesterol
+        tinggi. Namun, nicotinamide bisa berbahaya bagi organ hati jika kadar penggunaannya melebihi 3 gram per hari bagi
+        orang dewasa.
+    </string>
+
+    <string name="nikotinamid2">
+        Gunakanlah nicotinamide sesuai keterangan pada kemasan dan tanyakan pada dokter.
+        \n
+        \nTapi biasanya, pasien disarankan untuk mengoleskan nicotinamide dua kali sehari. Namun jika kulit menjadi
+        iritasi atau kering, kurangi frekuensi pengolesan. Pastikan bagian yang akan diolesi obat tersebut sudah benar-benar
+        kering dan bersih.
+        \n
+        \nJangan lupa untuk mencuci tangan dengan air bersih dan sabun sebelum atau sesudah mengoleskan nicotinamide.
+    </string>
+
+    <string name="nikotinamid3">
+        Dosis nicotinamide untuk tiap pasien berbeda-beda. Dosis penggunaan obat ini umumnya tidak sama untuk tiap merek
+        dan bisa dilihat pada masing-masing kemasan. Jangan lupa untuk mengonsultasikannya dengan dokter sebelum penggunaan.
+    </string>
+
+    <string name="nikotinamid4">
+        Reaksi orang terhadap sebuah obat berbeda-beda. Beberapa efek samping obat kelompok nicotinamide yang umumnya
+        terjadi adalah:
+        \n
+        \n\t1.\t Iritasi.
+        \n\t2.\t Kemerahan pada kulit.
+        \n\t3.\t Gatal-gatal.
+        \n\t4.\t Sensasi terbakar pada kulit.
+        \n\t5.\t Kulit kering.
+    </string>
+
+    <string name="nikotinamid5">
+        Wanita hamil, atau menyusui, dianjurkan berkonsultasi dengan dokter sebelum menggunakan nicotinamide.
+        \n
+        \nHarap berhati-hati bagi yang sedang menggunakan obat kulit atau sediaan lainnya seperti herbal atau pengobatan
+        kulit alternatif.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+        \n
+        \nJauhkan obat ini dari jangkauan anak-anak.
+    </string>
+
+    <string name="omeprazole1">
+        Omeprazole adalah obat yang mampu menurunkan kadar asam yang diproduksi di dalam lambung.  Obat golongan pompa proton
+        ini digunakan untuk mengobati beberapa kondisi, yaitu nyeri ulu hati, gastroesophageal reflux disease (GERD), dan tukak
+        lambung akibat infeksi bakteri H. pylori. Selain itu, omeprazole juga dapat digunakan untuk mengobati sindrom
+        Zollinger-Ellison.
+    </string>
+
+    <string name="omeprazole2">
+        Sebelum menggunakan omeprazole, perhatikan informasi yang diberikan oleh dokter terkait obat ini atau baca informasi
+        yang tertera di dalam kemasan agar Anda bisa mengetahui aturan pakai serta efek samping obat ini. Hindari pemakaian
+        omeprazole lebih dari 4 minggu tanpa berkonsultasi dahulu dengan dokter.
+        \n
+        \nOmeprazole dapat dikonsumsi sebelum atau sesudah makan, tapi lebih baik untuk dikonsumsi lima belas sampai
+        tiga puluh menit sebelum makan.
+        \n
+        \nTelanlah tablet dan kapsul omeprazole dengan air dan jangan mengunyahnya. Hal ini bertujuan agar omeprazole
+        dapat terserap secara optimal oleh tubuh. Jika Anda termasuk orang yang kesulitan menelan, tersedia omeprazole
+        dalam bentuk obat larut.
+        \n
+        \nKonsumsilah omeprazole sesuai takaran dosis dan frekuensi yang ditetapkan oleh dokter. Jika Anda tanpa sengaja
+        melewatkan satu dosis konsumsi, segera konsumsi dosis yang tertinggal tersebut begitu Anda ingat. Tapi jika sudah
+        sangat mendekati jadwal minum obat berikutnya, jangan mengonsumsi dua dosis sekaligus.
+        \n
+        \nKonsumsilah makanan dalam porsi-porsi kecil. Porsi terlalu besar dapat meregang lambung sehingga meningkatkan
+        produksi asam lambung. Hindarilah makanan atau minuman yang dapat memperburuk gejala penyakit lambung Anda, seperti
+        cokelat, tomat, daun mint, kopi, dan alkohol. Menurunkan berat badan juga dapat membantu mencegah naiknya asam lambung
+        sehingga meringankan gejala gangguan pencernaan.
+        \n
+        \nBerhenti atau batasi kebiasaan merokok, karena merokok juga meningkatkan produksi asam lambung.
+    </string>
+
+    <string name="omeprazole3">
+        Dosis omeprazole akan disesuaikan dengan kondisi dan respons pasien terhadap pengobatan. Bagi pasien anak-anak,
+        selain kondisi, dokter akan mempertimbangkan usia serta berat badan mereka dalam menentukan dosis omeprazole. Untuk
+        informasi lebih lengkap mengenai dosis omeprazole untuk anak, tanyakan pada dokter
+    </string>
+
+    <string name="omeprazole4">
+        Omeprazole jarang menyebabkan efek samping pada penggunanya. Jika pun ada, biasanya efek samping akan membaik setelah
+        penyesuaian tubuh terhadap obat ini.
+        \n
+        \nSegera temui dokter jika efek samping yang dialami tidak kunjung hilang atau bahkan makin parah.
+    </string>
+
+    <string name="omeprazole5">
+        Harap berhati-hati menggunakan omeprazole jika menderita penyakit hati, penyakit jantung, mempunyai kadar kalsium
+        tubuh yang rendah atau gangguan tulang.
+        \n
+        \nKonsultasikan dengan dokter sebelum mengonsumsi omeprazole jika mengalami kesulitan menelan, penurunan berat badan
+        tanpa sebab yang jelas, mual, dan per
+        \n
+        \nJika terjadi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+    <string name="pct1">
+        Paracetamol adalah salah satu obat yang masuk ke dalam golongan analgesik (pereda nyeri) dan antipiretik (penurun demam).
+        Obat ini dipakai untuk meredakan rasa sakit ringan hingga menengah, serta menurunkan demam. Untuk orang dewasa, dianjurkan
+        untuk mengonsumsi paracetamol 1-2 tablet sebanyak 500 miligram hingga 1 gram tiap 4-6 jam sekali dalam 24 jam.
+        \n
+        \nParacetamol mengurangi rasa sakit dengan cara menurunkan produksi zat dalam tubuh yang disebut prostaglandin.
+        Prostaglandin adalah unsur yang dilepaskan tubuh sebagai reaksi terhadap kerusakan jaringan atau infeksi, yang memicu
+        terjadinya peradangan, demam, dan rasa nyeri. Paracetamol menghalangi produksi prostaglandin, sehingga rasa sakit dan
+        demam berkurang.
+    </string>
+
+    <string name="pct2">
+        Umumnya, paracetamol tidak menimbulkan efek samping. Walau demikian, pastikan obat ini cocok untuk gejala-gejala yang
+        dialami dan tidak berlawanan dengan kondisi kesehatan fisik.
+        \n
+        \nParacetamol bisa dikonsumsi orang dewasa sebanyak 500 mg tiap empat hingga enam jam. Sedangkan untuk anak-anak,
+        sesuaikan dosisnya dengan anjuran dokter. Obat ini bisa diminum sebelum atau sesudah makan.
+        \n
+        \nJangan mengonsumsi paracetamol melebihi dosis yang ditentukan, terlalu banyak mengonsumsi obat ini bisa merusak
+        organ hati.
+        \n
+        \nApabila melewatkan waktu mengonsumsi paracetamol, jangan minum dua dosis sekaligus dengan maksud menggantikannya.
+    </string>
+
+    <string name="pct3">
+        Untuk usia >16	: 500 – 1000 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 12-16 : 480 – 750 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 10-12 : 480– 500 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 8-10 : 360-375 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 6-8 : 240-250 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 4-6 : 240 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 2-4 : 180 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 6 – 24 bulan : 120 mg tiap 4-6 jam
+        \n
+        \nUntuk usia 3 – 6 bulan : 60  mg tiap 4-6 jam
+        \n
+        \nUntuk usia 2 – 3 bulan setelah imunisasi : 60 mg tiap 4-6 jam
+    </string>
+
+    <string name="pct4">
+        Penurunan jumlah sel-sel darah, sepeti sel darah putih atau trombosit.
+        \n
+        \nMuncul ruam, terjadi pembengkakan, atau kesulitan bernapas karena alergi.
+        \n
+        \nTekanan darah rendah (hipotensi) dan jantung berdetak cepat (takikardi). Kerusakan pada hati dan
+        ginjal jika menggunakan obat ini secara
+        \n
+        \nBisa menyebabkan overdosis jika digunakan lebih dari 200 mg/kg, atau lebih dari 10 gram, dalam 24 jam.
+    </string>
+
+    <string name="pct5">
+        Harap berhati-hati bagi penderita gangguan ginjal, gangguan hati, malanutrisi, dehidrasi, dan bagi orang
+        yang sering mengonsumsi minuman keras (alkohol) dalam jangka lama.
+        \n
+        \nUntuk orang dewasa, jangan mengonsumsi lebih dari 4 gram per 24 jam.
+        \n
+        \nUntuk anak-anak, pastikan dosis diberikan sesuai dengan umur.
+        \n
+        \nJika terjadi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+    <string name="piroxicam1">
+        Piroxicam adalah obat antiinflamasi nonsteroid (NSAIDs) yang berfungsi untuk meredakan rasa sakit. Cara kerja NSAIDs
+        adalah dengan menghambat enzim yang memproduksi prostaglandin, yaitu senyawa yang dilepas tubuh dan menyebabkan rasa
+        sakit serta peradangan.
+        \n
+        \nPiroxicam sering digunakan untuk mengurangi gejala-gejala arthritis, seperti peradangan, pembengkakan, serta kaku
+        dan nyeri otot. Harap diingat bahwa piroxicam hanya dapat mengurangi gejala, namun tidak menyembuhkan artritis.
+    </string>
+
+    <string name="piroxicam2">
+        Gunakanlah piroxicam sesuai anjuran dokter dan jangan lupa untuk membaca keterangan pada kemasan.
+        \n
+        \nPiroxicam sebaiknya dikonsumsi dengan makanan . Selama mengonsumsi obat ini, pasien juga dianjurkan banyak minum
+        untuk menghindari dehidrasi, serta berhenti atau mengurangi rokok dan minuman keras agar dapat menurunkan tingkat
+        risiko perdarahan pada lambung.
+        \n
+        \nKulit yang lebih sensitif terhadap cahaya juga mungkin terjadi selama menggunakan piroxicam. Karena itu, pasien
+        disarankan untuk mengenakan topi atau pakaian tertutup saat bepergian.
+        \n
+        \nPastikan ada jarak waktu yang cukup antara satu dosis dengan dosis berikutnya. Usahakan untuk mengonsumsi piroxicam
+        pada jam yang sama tiap hari untuk memaksimalisasi efeknya.
+        \n
+        \nBagi pasien yang lupa mengonsumsi piroxicam, disarankan segera melakukannya jika jeda dengan jadwal konsumsi
+        berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+    </string>
+
+    <string name="piroxicam3">
+        Dosis piroxicam tergantung pada jenis penyakit yang dialami, tingkat keparahan gejala, kondisi kesehatan, usia,dan
+        respons tubuh pasien. Dosis yang umum diberikan bagi pasien dewasa adalah 20 mg per hari. Kondisi pasien kemudian
+        akan kembali ditinjau oleh dokter setelah 2 minggu pemakaian. Khusus bagi pasien lansia, penggunaan piroxicam hanya
+        dianjurkan dengan dosis dan durasi seminimal mungkin.
+        \n
+        \nSementara untuk obat oles piroxicam, pasien disarankan menggunakan salep dengan kandungan piroxicam 0.5 %
+        sebanyak 3 hingga 4 kali dalam sehari. Pemantauan akan kembali dilakukan setelah 1 bulan penggunaan.
+    </string>
+
+    <string name="piroxicam4">
+        Semua obat berpotensi menyebabkan efek samping, termasuk piroxicam. Beberapa efek samping yang umum terjadi saat
+        mengonsumsi obat ini adalah:
+        \n
+        \n\t1.\t Perut kembung.
+        \n\t2.\t Nyeri ulu hati.
+        \n\t3.\t Konstipasi atau diare.
+        \n\t4.\t Sakit kepala.
+        \n\t5.\t Mual.
+        \n\t6.\t Muntah.
+        \n
+        \nSegera hentikan pemakaian obat dan temui dokter jika pengguna mengalami efek samping yang serius seperti demam,
+        kesulitan bernapas, menggigil, linglung, sakit kepala yang tidak kunjung sembuh, kejang, perubahan emosional, lemas,
+        lelah, perubahan kemampuan melihat, urine disertai darah, tinja berwarna hitam atau bercampur darah, dan muntah darah.
+    </string>
+
+    <string name="piroxicam5">
+        Wanita yang sedang merencanakan kehamilan, memiliki masalah kesuburan, atau sedang hamil (terutama pada trimester
+        terakhir) dilarang mengonsumsi piroxicam. Sementara ibu menyusui disarankan untuk berkonsultasi dengan dokter terlebih
+        dahulu sebelum menggunakan obat ini.
+        \n
+        \nJangan mengonsumsi piroxicam melebihi dosis atau durasi yang dianjurkan dokter.
+        \n
+        \nJika mengonsumsi piroxicam, sebaiknya tidak mengemudi atau mengoperasikan alat berat karena obat ini bisa
+        menyebabkan rasa kantuk dan pusing.
+        \n
+        \nHarap waspada apabila menderita anemia, tukak lambung, gangguan pencernaan, asma, alergi terhadap obat antiinflamasi
+        non-steroid lain (misalnya ibuprofen), diabetes, gangguan hati, gangguan ginjal, penyakit jantung, penggumpalan darah,
+        edema, hiperkalemia, hipertensi, dehidrasi, kadar sodium yang rendah, serta gagal jantung. Demikian pula dengan
+        para perokok dan pengonsumsi minuman keras.
+        \n
+        \nSelama menggunakan piroxicam, beri tahu dokter sebelum menjalani pengobatan medis apa pun.
+        \n
+        \nTanyakan mengenai dosis anak-anak kepada dokter.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="propanolol1">
+        Propranolol adalah obat yang digunakan untuk menangani sejumlah kondisi yang berhubungan dengan jantung dan
+        pembuluh darah, seperti:
+        \n
+        \nAritmia atau gangguan irama jantung.
+        \nHipertensi.
+        \nHypertrophic subaortic stenosis, yaitu gangguan pada otot jantung.
+        \nAngina pektoris, yaitu nyeri dada akibat otot jantung kekurangan oksigen.
+        \nHipertensi porta, yaitu peningkatan tekanan pembuluh darah di sekitar organ hati yang dapat menimbulkan
+        varises esofagus, sehingga bisa pecah dan menyebabkan muntah darah.
+        \n
+        \nSelain kondisi-kondisi tersebut, propranolol juga dapat digunakan untuk meredakan tremor, mengobati
+        pheochromocytoma, dan mencegah migrain.
+        \n
+        \nPropranolol bekerja dengan cara menghambat kerja dari epinefrin atau adrenalin, yaitu zat di dalam
+        tubuh yang dapat menyempitkan pembuluh darah, meningkatkan tekanan darah, dan meningkatkan denyut jantung.
+    </string>
+
+    <string name="propanolol2">
+        Ikuti anjuran dokter dan bacalah informasi yang tertera pada kemasan propranolol sebelum mulai mengonsumsinya.
+        \n
+        \nDosis harian tablet propranolol biasanya dibagi menjadi beberapa dosis, misalnya dua, tiga, atau empat kali
+        dalam sehari. Gunakan air untuk menelan obat.
+        \n
+        \nPastikan ada jarak waktu yang cukup antara satu dosis dengan dosis berikutnya. Usahakan untuk mengonsumsi
+        propranolol pada jam yang sama setiap harinya, untuk memaksimalkan efek obat.
+        \n
+        \nBagi pasien yang lupa mengonsumsi propranolol, disarankan untuk segera melakukannya begitu ingat, jika jeda
+        dengan jadwal konsumsi berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nSelama menjalani pengobatan dengan propranolol, jangan lupa untuk tetap memeriksakan diri secara rutin ke dokter
+        agar perkembangan kondisi dapat terpantau.
+        \n
+        \nSimpanlah propranolol pada suhu ruangan dan letakkan di dalam wadah tertutup untuk menghindari paparan sinar
+        matahari secara langsung, dan jauhkan dari jangkauan anak-anak.
+    </string>
+
+    <string name="propanolol3">
+        Dosis dan jangka waktu penggunaan propanolol akan ditentukan oleh dokter sesuai dengan kondisi yang ingin ditangani,
+        tingkat keparahannya dan kondisi kesehatan pasien. Dosis akan direvisi oleh dokter dan disesuaikan menurut perkembangan
+        kondisi.
+        \n
+        \nUntuk anak-anak, dosis didasarkan pada berat badan anak tersebut.
+    </string>
+
+    <string name="propanolol4">
+        Efek samping yang mungkin timbul akibat penggunaan propranolol adalah:
+        \n
+        \n\t1.\t Mual dan muntah
+        \n\t2.\t Konstipasi
+        \n\t3.\t Diare
+        \n\t4.\t Kram perut
+        \n\t5.\t Insomnia
+        \n\t6.\t Impotensi
+        \n
+        \nSelain itu, ada beberapa efek samping lain yang mungkin terjadi dan bersifat lebih serius. Segera hubungi dokter jika
+        mengalami efek samping berikut ini:
+        \n
+        \n\t1.\t Pusing, seperti ingin pingsan.
+        \n\t2.\t Gangguan penglihatan.
+        \n\t3.\t Tangan dan kaki terasa dingin.
+        \n\t4.\t Sesak napas.
+        \n\t5.\t Detak jantung tidak beraturan.
+        \n\t6.\t Hilangnya keseimbangan.
+        \n\t7.\t Depresi dan halusinasi.
+    </string>
+
+    <string name="propanolol5">
+        Hindari mengonsumsi propranolol jika memiliki alergi terhadap obat ini.
+        \n
+        \nBerhati-hatilah dan konsultasikan lebih dahulu kepada dokter jika sedang atau berencana mengonsumsi obat-obatan lain,
+        termasuk suplemen dan produk herba.
+        \n
+        \nBerhati-hatilah dan konsultasikan lebih dahulu kepada dokter jika menderita atau pernah menderita gangguan kesehatan
+        seperti asma, diabetes, gangguan tiroid, penyakit jantung, penyakit liver dan penyakit ginjal.
+        \n
+        \nBerhati-hatilah jika Anda perokok karena merokok dapat menurunkan efektivitas propranolol.
+        \n
+        \nJangan mengonsumsi minuman beralkohol saat menjalani pengobatan dengan propranolol, karena dapat meningkatkan kadar
+        propranolol dalam tubuh.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah mengonsumsi propranolol, segera temui dokter.
+    </string>
+
+    <string name="ranitidin1">
+        Ranitidin adalah obat yang dapat digunakan untuk menangani gejala atau penyakit yang berkaitan dengan produksi asam
+        berlebih di dalam lambung.
+        \n
+        \nKelebihan asam lambung dapat membuat dinding sistem pencernaan mengalami iritasi dan peradangan. Peradangan ini
+        kemudian dapat berujung pada beberapa penyakit, seperti tukak lambung, tukak duodenum, sakit maag, nyeri ulu hati,
+        serta gangguan pencernaan.
+        \n
+        \nRanitidin bekerja dengan cara menghambat sekresi asam lambung berlebih, sehingga rasa sakit dapat reda dan luka
+        pada lambung perlahan-lahan akan sembuh.
+        \n
+        \nSelain mengobati, ranitidin juga dapat digunakan untuk mencegah munculnya gejala-gejala gangguan pencernaan akibat
+        mengonsumsi makanan tertentu. Ranitidin tidak akan menghambat sekresi enzim pepsin dan serum gastrin, sehingga tidak
+        mengganggu pencernaan.
+    </string>
+
+    <string name="ranitidin2">
+        Ranitidin dapat dikonsumsi sebelum atau sesudah makan. Usahakan untuk mengonsumsinya pada jam yang sama tiap hari.
+        pada lambung perlahan-lahan akan sembuh.
+        \n
+        \nSelama menggunakan obat ini, hindarilah konsumsi makanan atau minuman yang dapat memperparah gejala Anda agar
+        keefektifan obat menjadi maksimal. Makanan atau minuman yang harus dihindari tersebut di antaranya adalah makanan pedas,
+        cokelat, tomat, minuman keras, atau minuman panas, khususnya kopi. Selain itu, pengguna juga dianjurkan untuk berhenti
+        merokok karena dapat memicu produksi asam lambung, serta dianjurkan untuk mengurangi berat badan yang berlebihan
+        guna membantu mengurangi gejala.
+        \n
+        \nJika pengguna lupa mengonsumsi ranitidin, disarankan untuk segera melakukannya jika jeda dengan jadwal konsumsi
+        berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+    </string>
+
+    <string name="ranitidin3">
+
+    </string>
+
+    <string name="ranitidin4">
+        Beberapa efek samping yang mungkin saja dapat terjadi setelah menggunakan ranitidin adalah:
+        \n
+        \n\t1.\t Diare.
+        \n\t2.\t Muntah-muntah.
+        \n\t3.\t Sakit kepala.
+        \n\t4.\t Insomnia.
+        \n\t5.\t Vertigo.
+        \n\t6.\t Ruam.
+        \n\t7.\t Konstipasi.
+        \n\t8.\t Sakit perut.
+        \n\t9.\t Sulit menelan.
+        \n\t10.\t Urine tampak keruh.
+        \n\t11.\t Bingung.
+        \n\t12.\t Berhalusinasi.
+    </string>
+
+    <string name="ranitidin5">
+        Bagi wanita hamil dan menyusui, sesuaikan dosis dengan anjuran dokter.
+        \n
+        \nKonsultasikan dosis ranitidin untuk anak-anak dengan dokter.
+        \n
+        \nHarap berhati-hati bagi penderita gangguan ginjal.
+        \n
+        \nHarap waspada bagi yang memiliki riwayat perdarahan, sulit menelan, muntah, dan penurunan berat badan tanpa
+        alasan jelas.
+        \n
+        \nPenderita yang memiliki riwayat porfiria akut tidak boleh menggunakan ranitidin.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="rifampicin1">
+        Rifampicin atau rifampin adalah obat antibiotik yang digunakan untuk mengobati beberapa infeksi akibat bakteri.
+        Obat ini bekerja dengan cara menghentikan pertumbuhan dan perkembangbiakan bakteri.
+        \n
+        \nSejumlah infeksi yang dapat ditangani oleh rifampicin, di antaranya adalah tuberkulosis (TBC) dan kusta. Selain itu,
+        obat ini juga dapat digunakan untuk mencegah meningitis akibat bakteri N. meningitidis dan infeksi bakteri H. influenza
+        tipe B (Hib).
+    </string>
+
+    <string name="rifampicin2">
+        Gunakan rifampicin sesuai dengan anjuran dokter atau informasi yang tertera pada kemasan. Obat ini sebaiknya
+        dikonsumsi saat perut kosong, yaitu 1 jam sebelum makan atau 2 jam setelah makan.
+        \n
+        \nJika diresepkan rifampicin sirop, kocok terlebih dahulu sebelum diminum.
+        \n
+        \nUsahakan untuk mengonsumsi rifampicin pada waktu yang sama tiap harinya, agar pengobatan efektif.
+        \n
+        \nBagi Anda yang lupa mengonsumsi rifampicin, disarankan untuk segera melakukannya begitu teringat, jika jeda dengan
+        jadwal konsumsi berikutnya tidak terlalu dekat. Jika sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nSimpan obat ini di tempat yang bersuhu antara 15-30 derajat Celcius. Hindarkan dari paparan cahaya atau panas yang
+        berlebihan.
+    </string>
+
+    <string name="rifampicin3">
+        Untuk penyakit Tuberkulosis	Dewasa: 8-12 mg/kgBB per hari.
+        \nAnak-anak: 10-20 mg/kgBB per hari.
+        \nDosis maksimum 600 mg per hari.
+        \n
+        \nUntuk penyakit Kusta: Dewasa: 600 mg, satu kali sebulan, selama 6-12 bulan.
+        \nAnak-anak: 10 mg/kgBB per hari, untuk pemberian 1 kali per bulan, selama 6-12 bulan.
+        \n
+        \nUntuk pencegahan infeksi N. meningitidis : Dewasa: 600 mg, 2 kali sehari, selama dua hari.
+        \nAnak-anak ≤ 1 bulan : 5 mg/kgBB, 2 kali sehari.
+        \nAnak-anak > 1 bulan : 10 mg/kgBB, 2 kali sehari.
+        \n
+        \nUntuk pencegahan infeksi Hib : Dewasa: 600 mg, 2 kali sehari, selama 4 hari
+        \nAnak-anak > 1 bulan: 20 mg/kgBB per hari, selama 4 hari, dosis maksimum 600 mg/hari.
+        \nAnak-anak ≤ 1 bulan: 10 mg/kgBB per hari, selama 4 hari.
+        \n
+        \nUntuk gangguan fungsi hati : Maksimal 8 mg/kgBB per hari.
+    </string>
+
+    <string name="rifampicin4">
+        Sedangkan efek samping overdosis yang harus diwaspadai dan diperiksakan ke dokter apabila terjadi adalah:
+        \n
+        \n\t1.\t Gangguan fungsi hati.
+        \n\t2.\t Ruam kulit.
+        \n\t3.\t Nyeri ulu hati.
+        \n\t4.\t Mual.
+        \n\t5.\t Muntah.
+        \n\t6.\t Nafsu makan turun.
+        \n\t7.\t Diare.
+    </string>
+
+    <string name="rifampicin5">
+        Hati-hati bagi penderita gangguan hati dan ginjal, serta porfiria dan kecanduan alkohol.
+        \n
+        \nWaspadai penggunaan obat ini bersama dengan obat antivirus ritonavir dan  darunavir karena dapat meningkatkan
+        risiko gangguan hati atau menurunkan efektivitas antivirus.
+        \n
+        \nHindari penggunaan rifampicin bersama vaksinasi yang berasal dari bakteri yang dilemahkan, seperti vaksin tifus.
+        \n
+        \nRifampicin dapat merubah urine, tinja, air liur, dahak, dan keringat menjadi berwarna oranye atau coklat kemerahan.
+        Efek ini akan hilang bila penderita menghentikan konsumsi.
+        \n
+        \nRifampicin dapat mempengaruhi efektivitas pil KB, disarankan untuk menggunakan kontrasepsi jenis lain.
+        \n
+        \nTerus konsumsi dan kontrol kembali kepada dokter sampai diperbolehkan untuk menghentikan obat, walaupun keluhan
+        sudah menghilang. Menghentikan pengobatan tanpa sesuai anjuran dapat membuat bakteri terus tumbuh dan mengakibatkan
+        infeksi kembali.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis setelah mengonsumsi rifampicin, segera temui dokter.
+    </string>
+
+    <string name="salbutamol1">
+        Salbutamol adalah obat yang dapat melebarkan saluran udara pada paru-paru. Obat yang masuk ke dalam golongan bronkodilator
+        ini bekerja dengan cara melemaskan otot-otot di sekitar saluran pernapasan yang menyempit sehingga udara dapat mengalir
+        lebih lancar ke dalam paru-paru.
+        \n
+        \nSalbutamol mampu meringankan gejala-gejala asma dengan cepat saat serangan asma berlangsung, serta dapat juga dipakai
+        untuk mengobati penyakit paru obstruktif kronik (PPOK).
+    </string>
+
+    <string name="salbutamol2">
+        Gunakanlah salbutamol sesuai anjuran dokter dan jangan lupa untuk membaca keterangan pada kemasan.
+        \n
+        \nPada tahap awal penggunaan, dokter akan menganjurkan dosis efektif yang terendah. Lalu dosis akan direvisi
+        dan disesuaikan dengan perkembangan kondisi penderita. Karena itu, penderita disarankan untuk menjalani pemeriksaan
+        kesehatan secara rutin untuk memantau keefektifan dosis salbutamol yang dibutuhkan.
+        \n
+        \nSebelum memakai salbutamol bentuk inhaler, pastikan penderita mengetahui cara menggunakannya dengan benar. Jangan
+        lupa untuk senantiasa membawa salbutamol inhaler tiap bepergian.
+        \n
+        \nJika memakai lebih dari satu jenis inhaler, gunakanlah inhaler salbutamol terlebih dulu. Tunggu beberapa menit
+        sebelum menggunakan inhaler lain. Salbutamol akan membuka saluran pernapasan sehingga meningkatkan keefektifan obat
+        dari inhaler lain.
+        \n
+        \nBagi penderita yang kesulitan menyesuaikan napas saat menggunakan inhaler, dokter umumnya akan menganjurkan alat
+        yang disebut spacer. Spacer dapat meningkatkan jumlah obat-obatan yang mencapai paru-paru, sekaligus mengurangi efek
+        sampingnya.
+        \n
+        \nUntuk memaksimalisasi manfaat salbutamol, penderita juga dianjurkan untuk berhenti merokok. Rokok dapat memicu
+        iritasi pada paru-paru dan memperburuk kondisi asma serta gangguan pernapasan.
+    </string>
+
+    <string name="salbutamol3">
+        Penentuan dosis salbutamol tergantung pada tingkat keparahan gejala dan kondisi kesehatan pasien. Bentuk obat
+        yang digunakan juga akan menjadi pertimbangan dalam menentukan takaran salbutamol.
+    </string>
+
+    <string name="salbutamol4">
+        Semua obat berpotensi menyebabkan efek samping, begitu juga dengan salbutamol. Segera temui dokter apabila
+        penderita mengalami efek samping berupa:
+        \n
+        \n\t1.\t Jantung berdebar-debar.
+        \n\t2.\t Detak jantung yang cepat atau tak teratur.
+        \n\t3.\t Gemetaran.
+        \n\t4.\t Sakit perut.
+        \n\t5.\t Nyeri dada.
+        \n\t6.\t Batuk berdahak.
+        \n\t7.\t Diare.
+        \n\t8.\t Sulit menelan.
+        \n\t9.\t Sakit kepala.
+        \n\t10.\t Menggigil.
+        \n\t11.\t Demam.
+        \n\t12.\t Mual.
+    </string>
+
+    <string name="salbutamol5">
+        Wanita yang sedang hamil dan menyusui hanya boleh menggunakan salbutamol jika benar-benar dibutuhkan dan dianjurkan
+        oleh dokter.
+        \n
+        \nSegera temui dokter jika gejala-gejala tidak berkurang setelah menghirup salbutamol sesuai dengan petunjuk dokter.
+        \n
+        \nHarap berhati-hati jika menderita hipertiroidisme, alergi terhadap protein susu, gangguan kardiovaskular, hipertensi,
+        diabetes, hipokalemia, gangguan ginjal, kejang, serta aritmia.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera temui dokter.
+    </string>
+
+    <string name="tramadol1">
+        Tramadol adalah salah satu obat pereda rasa sakit kuat yang digunakan untuk menangani nyeri sedang hingga berat
+        (misalnya nyeri setelah operasi). Tramadol bekerja dengan cara memengaruhireaksi kimia di dalam otak dan sistem saraf
+        yang pada akhirnya mengurangi sensasi rasa sakit.
+    </string>
+
+    <string name="tramadol2">
+        Tramadol dapat digunakan sebelum atau sesudah makan, dan sebaiknya digunakan hanya ketika sakit mulai muncul.
+        \n
+        \nGunakan tramadol segera untuk menggantikan jadwal penggunaan yang terlewat jika jeda dengan jadwal berikutnya tidak
+        terlalu dekat. Namun jika jedanya sudah dekat, abaikan dan jangan menggandakan dosis.
+        \n
+        \nJangan melebihi dosis serta durasi penggunaan yang telah ditentukan oleh dokter karena dapat menyebabkan
+        ketergantungan. Penghentian penggunaan obat ini harus dilakukan secara bertahap, sesuai dengan petunjuk dokter.
+        \n
+        \nSelama mengonsumsi tramadol, pasien dianjurkan untuk menghindari minuman keras dan obat-obatan yang dapat
+        berdampak pada tingkat kesadaran (misalnya antihistamin dan obat penenang atau sedatif).
+        \n
+        \nSelama menjalani pengobatan dengan tramadol, disarankan untuk tidak mengendarai kendaraan atau mengoperasikan
+        mesin berat untuk menghindari kecelakaan.
+    </string>
+
+    <string name="tramadol3">
+        Dosis penggunaan tramadol tergantung pada tingkat keparahan nyeri yang dirasakan oleh pasien. Meskipun begitu,
+        konsumsi obat ini tidak boleh melebihi 400 mg per hari.
+        \n
+        \nDosis penggunaan tramadol untuk jangka waktu yang lebih panjang akan diatur oleh dokter sesuai dengan kondisi
+        kesehatan dan perkembangan pemulihan pasien. Untuk anak-anak usia di bawah 12 tahun, dosis dan penggunaan tramadol akan
+        disesuaikan. Sementara itu, bagi manula yang berusia di atas 75 tahun, dianjurkan untuk tidak mengonsumsi tramadol lebih
+        dari 300 mg per hari.
+    </string>
+
+    <string name="tramadol4">
+        Beberapa efek samping yang umum terjadi setelah menggunakan tramadol adalah:
+        \n
+        \n\t1.\t Pusing dan limbung.
+        \n\t2.\t Lelah dan mengantuk.
+        \n\t3.\t Mual dan muntah.
+        \n\t4.\t Konstipasi dan sulit buang air kecil.
+        \n\t5.\t Mulut kering.
+        \n\t6.\t Perut kembung.
+        \n\t7.\t Diare.
+        \n
+        \nDalam kondisi tertentu, tramadol dapat menyebabkan efek samping serius bagi anak-anak usia di bawah 17 tahun,
+        seperti kesulitan bernapas, napas menjadi lebih lambat, linglung, atau kesulitan tidur.
+        \n
+        \nDisarankan untuk segera menghubungi dokter apabila terjadi hal-hal berikut setelah menggunakan tramadol:
+        \n
+        \n\t1.\t Kejang.
+        \n\t2.\t Sakit kepala yang hebat.
+        \n\t3.\t Kesulitan bernapas.
+        \n\t4.\t Nafsu makan menurun.
+    </string>
+
+    <string name="tramadol5">
+        Jangan mengonsumsi tramadol lebih dari 400 mg per hari.
+        \n
+        \nUntuk pengguna berusia 75 tahun ke atas, dosis maksimum per hari adalah 300 mg.
+        \n
+        \nTramadol sebaiknya tidak diberikan pada anak-anak usia di bawah 17 tahun karena dapat menimbulkan efek samping
+        yang parah, walaupun jarang terjadi, yaitu kesulitan benapas.
+        \n
+        \nHarap berhati-hati bagi penderita gangguan ginjal, hati, prostat, pernapasan, kelenjar adrenal, tiroid, epilepsi,
+        hipotensi (tekanan darah rendah), konstipasi, peradangan usus, myastenia gravis, gangguan saluran empedu, atau jika
+        baru mengalami cedera kepala berat.
+        \n
+        \nPerlu diingat bahwa ada beberapa jenis obat yang mengandung tramadol, tapi tidak 100 persen. Pastikan untuk membaca
+        bahan yang terkandung dalam tiap obat. Hindari mengonsumsi dua atau lebih obat-obatan yang mengandung tramadol
+        secara bersamaan untuk menghindari overdosis
+        \n
+        \nWaspadai penggunaan tramadol pada orang dengan ketergantungan obat-obatan atau minuman keras.
+        \n
+        \nJika terjadi reaksi alergi atau overdosis, segera hubungi dokter.
+    </string>
+
+
+</resources>
